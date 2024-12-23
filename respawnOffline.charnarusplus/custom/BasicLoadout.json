@@ -17,10 +17,22 @@
           },
           "quickBarSlot": -1,
           "simpleChildrenUseDefaultAttributes": false,
-          "simpleChildrenTypes": [
-            "MakarovIJ70"
-          ],
-          "complexChildrenTypes": []
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": [
+            {
+              "itemType": "MakarovIJ70",
+              "attributes": {
+                "healthMin": 1,
+                "healthMax": 1,
+                "quantityMin": 1,
+                "quantityMax": 1
+              },
+              "quickBarSlot": 0,
+              "simpleChildrenTypes": [
+                "Mag_IJ70_8Rnd"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -157,11 +169,31 @@
       },
       "quickBarSlot": -1,
       "simpleChildrenUseDefaultAttributes": false,
-      "simpleChildrenTypes": [
-        "ChernarusMap",
-        "BandageDressing"
-      ],
-      "complexChildrenTypes": []
+      "simpleChildrenTypes": [],
+      "complexChildrenTypes": [
+        {
+          "itemType": "ChernarusMap",
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": 1,
+          "simpleChildrenTypes": []
+        },
+        {
+          "itemType": "BandageDressing",
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": 2,
+          "simpleChildrenTypes": []
+        }
+      ]
     }
   ]
 }
