@@ -9,6 +9,7 @@
 	},
     "PlayerData":
 	{
+		"spawnGearPresetFiles": ["custom/BasicLoadout.json"],
 		"disablePersonalLight": false,
 		"StaminaData":
 		{
