@@ -40,23 +40,23 @@
         <usage name="Military" />
     </type>
     <type name="AK101_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="AK101_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
@@ -76,23 +76,23 @@
         <value name="Tier4" />
     </type>
     <type name="AK74_Black">
-        <nominal>0</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>8</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="AK74_Green">
-        <nominal>0</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>8</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
@@ -148,12 +148,12 @@
         <value name="Tier3" />
     </type>
     <type name="AKS74U_Black">
-        <nominal>0</nominal>
+        <nominal>17</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>12</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
@@ -173,12 +173,12 @@
         <value name="Tier3" />
     </type>
     <type name="AKS74U_Green">
-        <nominal>0</nominal>
+        <nominal>17</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>12</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
@@ -7188,10 +7188,10 @@
         <usage name="Firefighter" />
     </type>
     <type name="FirefighterAxe_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7199,10 +7199,10 @@
         <category name="tools" />
     </type>
     <type name="FirefighterAxe_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12082,23 +12082,23 @@
         <usage name="ContaminatedArea" />
     </type>
     <type name="M4A1_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
     </type>
     <type name="M4A1_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>1</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
@@ -13814,10 +13814,10 @@
         <value name="Tier4" />
     </type>
     <type name="Mosin9130_Black">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>35</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13836,12 +13836,12 @@
         <category name="weapons" />
     </type>
     <type name="Mosin9130_Green">
-        <nominal>0</nominal>
+        <nominal>40</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <min>35</min>
+        <quantmin>100</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
