@@ -25,8 +25,8 @@
 			"holdBreathStaminaModifier": 0.1
 		},
 		"ShockHandlingData": {
-			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
+			"shockRefillSpeedConscious": 3.0,
+			"shockRefillSpeedUnconscious": 0.8,
 			"allowRefillSpeedModifier": true
 		},
 		"MovementData": {
