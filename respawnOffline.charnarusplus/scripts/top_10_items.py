@@ -70,7 +70,7 @@ def calculate_average_likelihood(item_data, usage_spawn_points):
 
 
 def main():
-    types_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/db/types_2x_1735314744.xml"
+    types_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/db/types.xml"
     mapgroupproto_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/mapgroupproto.xml"
 
     item_data = extract_item_data(types_file)
