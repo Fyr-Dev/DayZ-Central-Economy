@@ -8,7 +8,7 @@
 	},
 	"PlayerData": {
 		"spawnGearPresetFiles": [
-			"custom/PoliceSpawn.json"
+			"custom/backp.types/PoliceSpawn.json"
 		],
 		"disablePersonalLight": false,
 		"StaminaData": {
