@@ -63,9 +63,23 @@ def calculate_average_likelihood(item_data, usage_spawn_points):
     return item_likelihood[:20]
 
 
+def gather_all_categories_in_types(types_file):
+    tree = ET.parse(types_file)
+    root = tree.getroot()
+    category_set = set()
+    for type_elem in root.findall("type"):
+        cat_elem = type_elem.find("category")
+        if cat_elem is not None:
+            category_set.add(cat_elem.get("name"))
+    return sorted(category_set)
+
+
 def main():
     types_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/db/types.xml"
     mapgroupproto_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/mapgroupproto.xml"
+
+    all_categories_in_types = gather_all_categories_in_types(types_file)
+    print(f"Available categories in types.xml: {all_categories_in_types}")
 
     category = input("Enter the category to search for: ")
 

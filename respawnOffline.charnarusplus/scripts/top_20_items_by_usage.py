@@ -52,9 +52,36 @@ def calculate_average_likelihood(item_data, usage_spawn_points):
     return item_likelihood[:20]
 
 
+def gather_all_usages_in_types(types_file):
+    tree = ET.parse(types_file)
+    root = tree.getroot()
+    usage_set = set()
+    for type_elem in root.findall("type"):
+        for usage in type_elem.findall("usage"):
+            usage_set.add(usage.get("name"))
+    return sorted(usage_set)
+
+
+def gather_all_usages_in_mapgroupproto(mapgroupproto_file):
+    tree_proto = ET.parse(mapgroupproto_file)
+    root_proto = tree_proto.getroot()
+    usage_set = set()
+    for group in root_proto.findall("group"):
+        for usage_elem in group.findall("usage"):
+            usage_attr = usage_elem.get("name")
+            if usage_attr:
+                usage_set.add(usage_attr)
+    return sorted(usage_set)
+
+
 def main():
     types_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/db/types.xml"
     mapgroupproto_file = "C:/Users/lewis/Documents/GitHub/DayZ-Central-Economy/respawnOffline.charnarusplus/mapgroupproto.xml"
+
+    all_usages_in_types = gather_all_usages_in_types(types_file)
+    all_usages_in_mapgroupproto = gather_all_usages_in_mapgroupproto(mapgroupproto_file)
+    print(f"Available usages in types.xml: {all_usages_in_types}")
+    print(f"Available usages in mapgroupproto.xml: {all_usages_in_mapgroupproto}")
 
     usage_name = input("Enter the usage name to search for: ")
 
