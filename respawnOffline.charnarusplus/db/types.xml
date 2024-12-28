@@ -10191,10 +10191,10 @@
         <value name="Tier2" />
     </type>
     <type name="Hook">
-        <nominal>100</nominal>
+        <nominal>60</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>80</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15437,10 +15437,10 @@
         <usage name="Police" />
     </type>
     <type name="Pitchfork">
-        <nominal>110</nominal>
+        <nominal>70</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>90</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17934,10 +17934,10 @@
         <value name="Tier4" />
     </type>
     <type name="Sickle">
-        <nominal>100</nominal>
+        <nominal>60</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>70</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
