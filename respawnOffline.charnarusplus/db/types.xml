@@ -477,10 +477,10 @@
         <usage name="School" />
     </type>
     <type name="AliceBag_Black">
-        <nominal>3</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -489,10 +489,10 @@
         <usage name="Military" />
     </type>
     <type name="AliceBag_Camo">
-        <nominal>3</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -501,10 +501,10 @@
         <usage name="Military" />
     </type>
     <type name="AliceBag_Green">
-        <nominal>3</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2135,10 +2135,10 @@
         <value name="Tier3" />
     </type>
     <type name="AssaultBag_Black">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2150,10 +2150,10 @@
         <value name="Tier4" />
     </type>
     <type name="AssaultBag_Green">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2165,10 +2165,10 @@
         <value name="Tier4" />
     </type>
     <type name="AssaultBag_Ttsko">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2180,10 +2180,10 @@
         <value name="Tier4" />
     </type>
     <type name="AssaultBag_Winter">
-        <nominal>0</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
