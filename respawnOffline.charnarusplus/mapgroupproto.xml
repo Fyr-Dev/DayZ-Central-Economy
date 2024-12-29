@@ -12820,6 +12820,7 @@
 						<point pos="-3.818542 -1.811153 -1.685303" range="0.460957" height="1.302490" />
 				</container>
 		</group>
+		<!-- CUSTOM -->
 		<group name="Land_Wreck_C130J" lootmax="19">
 			<usage name="Military" />
 			<container name="lootFloor" lootmax="19">
@@ -12844,6 +12845,7 @@
 				<point pos="7.271628 -4.855424 -0.751596" range="1" height="1" /> 
 			</container>
 		</group>
+		<!-- END OF CUSTOM -->
 		<group name="Land_Wreck_Volha_Police" lootmax="11">
 				<usage name="Police" />
 				<container name="lootFloor" lootmax="11">
