@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-from collections import defaultdict
 
 
 def gather_all_categories(types_file):
