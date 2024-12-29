@@ -1057,7 +1057,7 @@
         <children>
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Black"/>
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Blue"/>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="Boat_01_Camo"/>
+            <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Camo"/>
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange"/>
         </children>
     </event>
