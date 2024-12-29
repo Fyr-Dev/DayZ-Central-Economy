@@ -12270,7 +12270,7 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>4</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -12284,7 +12284,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>4</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
@@ -12298,7 +12298,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>4</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>4</min>
