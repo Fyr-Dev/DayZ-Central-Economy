@@ -3083,7 +3083,7 @@
 	</type>
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.80" />
+			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="0.80" />
@@ -3845,6 +3845,7 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
+<!-- END OF VEHICLES-->
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
