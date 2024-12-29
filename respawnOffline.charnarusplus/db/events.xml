@@ -698,9 +698,9 @@
         <children/>
     </event>
     <event name="StaticAirplaneCrate">
-        <nominal>9</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>12</nominal>
+        <min>3</min>
+        <max>12</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -753,8 +753,8 @@
     </event>
     <event name="StaticContaminatedArea">
         <nominal>0</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>0</min>
+        <max>0</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
@@ -784,9 +784,9 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>4</nominal>
+        <min>3</min>
+        <max>4</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -798,13 +798,14 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
+            <child lootmax="25" lootmin="15" max="3" min="1" type="Wreck_UH1Y"/>
+            <child lootmax="33" lootmin="25" max="3" min="1" type="Wreck_Mi8"/>
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
-        <nominal>5</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>12</nominal>
+        <min>3</min>
+        <max>12</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -819,8 +820,8 @@
     </event>
     <event name="StaticPoliceCar">
         <nominal>10</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>3</min>
+        <max>12</max>
         <lifetime>2500</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -837,10 +838,10 @@
         </children>
     </event>
     <event name="StaticPoliceSituation">
-        <nominal>5</nominal>
-        <min>0</min>
-        <max>0</max>
-        <lifetime>1800</lifetime>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>8</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>1000</distanceradius>
@@ -888,8 +889,8 @@
     </event>
     <event name="TrajectoryApple">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -905,8 +906,8 @@
     </event>
     <event name="TrajectoryCanina">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -922,8 +923,8 @@
     </event>
     <event name="TrajectoryConiferous">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -940,8 +941,8 @@
     </event>
     <event name="TrajectoryDeciduous">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -957,8 +958,8 @@
     </event>
     <event name="TrajectoryHumus">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -975,8 +976,8 @@
     </event>
     <event name="TrajectoryPear">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -992,8 +993,8 @@
     </event>
     <event name="TrajectoryPlum">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -1009,8 +1010,8 @@
     </event>
     <event name="TrajectorySambucus">
         <nominal>140</nominal>
-        <min>2</min>
-        <max>4</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -1026,8 +1027,8 @@
     </event>
     <event name="TrajectoryStones">
         <nominal>100</nominal>
-        <min>1</min>
-        <max>2</max>
+        <min>22</min>
+        <max>44</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>25</saferadius>
@@ -1045,7 +1046,7 @@
         <nominal>22</nominal>
         <min>18</min>
         <max>24</max>
-        <lifetime>600</lifetime>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1062,10 +1063,10 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
-        <lifetime>300</lifetime>
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>16</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1081,10 +1082,10 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
-        <lifetime>300</lifetime>
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>16</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1100,10 +1101,10 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>3</nominal>
-        <min>2</min>
-        <max>3</max>
-        <lifetime>300</lifetime>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1117,10 +1118,10 @@
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
-        <lifetime>300</lifetime>
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>16</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1136,10 +1137,10 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
-        <lifetime>300</lifetime>
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>16</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
@@ -1155,10 +1156,10 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
-        <lifetime>300</lifetime>
+        <nominal>12</nominal>
+        <min>6</min>
+        <max>16</max>
+        <lifetime>2700</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
