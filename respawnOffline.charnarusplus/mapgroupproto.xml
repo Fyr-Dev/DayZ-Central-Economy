@@ -12820,16 +12820,29 @@
 						<point pos="-3.818542 -1.811153 -1.685303" range="0.460957" height="1.302490" />
 				</container>
 		</group>
-		<group name="Land_Wreck_C130J" lootmax="0">
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="0">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="weapons" />
-						<tag name="floor" />
-						<tag name="shelves" />
-				</container>
+		<group name="Land_Wreck_C130J" lootmax="19">
+			<usage name="Military" />
+			<container name="lootFloor" lootmax="19">
+				<point pos="0.692692 -4.466605 0.813852" range="1" height="1" /> 
+				<point pos="-0.857668 -4.471243 -0.944739" range="1" height="1" /> 
+				<point pos="-2.408016 -4.488832 0.639919" range="1" height="1" /> 
+				<point pos="-3.651004 -4.492338 -0.825142" range="1" height="1" /> 
+				<point pos="-5.388583 -4.093868 -0.421675" range="1" height="1" /> 
+				<point pos="-5.189223 -4.104554 1.413387" range="1" height="1" /> 
+				<point pos="-5.921541 -4.105611 0.452828" range="1" height="1" /> 
+				<point pos="-7.030367 -4.117430 1.460930" range="1" height="1" /> 
+				<point pos="-7.993716 -4.119680 0.458259" range="1" height="1" /> 
+				<point pos="-5.380767 -4.093832 -1.406936" range="1" height="1" /> 
+				<point pos="-6.752078 -4.103849 -1.369533" range="1" height="1" /> 
+				<point pos="-6.925734 -4.105166 -0.304190" range="1" height="1" /> 
+				<point pos="-8.262474 -4.114038 -1.407671" range="1" height="1" /> 
+				<point pos="-8.153672 -4.112970 -0.356770" range="1" height="1" /> 
+				<point pos="2.222684 -4.448831 -0.857096" range="1" height="1" /> 
+				<point pos="2.585939 -4.452783 0.855212" range="1" height="1" /> 
+				<point pos="5.043134 -4.689828 -0.713725" range="1" height="1" /> 
+				<point pos="5.988493 -4.806165 0.833959" range="1" height="1" /> 
+				<point pos="7.271628 -4.855424 -0.751596" range="1" height="1" /> 
+			</container>
 		</group>
 		<group name="Land_Wreck_Volha_Police" lootmax="11">
 				<usage name="Police" />
