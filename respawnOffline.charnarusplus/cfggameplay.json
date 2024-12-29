@@ -45,9 +45,7 @@
 	},
 	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": [
-			"custom/C130J_PlaneTest.json"
-		],
+		"objectSpawnersArr": [],
 		"environmentMinTemps": [
 			0,
 			1,
