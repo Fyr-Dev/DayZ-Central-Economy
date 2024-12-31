@@ -14029,10 +14029,10 @@
         <usage name="Medic"/>
     </type>
     <type name="Mosin9130">
-        <nominal>160</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>140</min>
+        <min>35</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14046,10 +14046,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mosin9130_Black">
-        <nominal>160</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>140</min>
+        <min>35</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -14063,10 +14063,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mosin9130_Camo">
-        <nominal>160</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>140</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14080,10 +14080,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mosin9130_Green">
-        <nominal>160</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>140</min>
+        <min>35</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
