@@ -1309,6 +1309,18 @@
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
+    <type name="ZmbM_usSoldier_normal_Desert">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+    </type>
 	
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">

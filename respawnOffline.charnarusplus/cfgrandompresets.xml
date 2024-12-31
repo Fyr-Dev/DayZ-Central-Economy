@@ -487,8 +487,7 @@
 		
 		<!--Headtorches-->
 		<attachments chance= "0.03" name="headtorches">
-			<item name="Headtorch_Grey" chance="0.5" />
-			<item name="Headtorch_Black" chance="0.5" />
+			<item name="NVGHeadstrap" chance="0.5" />
 		</attachments>
 		
 		<!--T1 GEAR-->
