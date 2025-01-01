@@ -328,10 +328,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_12gaPellets">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>112</min>
+        <min>150</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -345,10 +345,10 @@ AVAILABLE CATEGORIES:
         <usage name="Hunting"/>
     </type>
   <type name="Ammo_12gaRubberSlug">
-        <nominal>60</nominal>
+        <nominal>80</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>52</min>
+        <min>70</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -359,10 +359,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm"/>
     </type>
   <type name="Ammo_12gaSlug">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>97</min>
+        <min>130</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -376,10 +376,10 @@ AVAILABLE CATEGORIES:
         <usage name="Hunting"/>
     </type>
   <type name="Ammo_22">
-        <nominal>135</nominal>
+        <nominal>180</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>105</min>
+        <min>140</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -390,10 +390,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village"/>
     </type>
   <type name="Ammo_308Win">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>60</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -404,10 +404,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_308WinTracer">
-        <nominal>45</nominal>
+        <nominal>60</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>40</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -417,10 +417,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_357">
-        <nominal>135</nominal>
+        <nominal>180</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>97</min>
+        <min>130</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -431,10 +431,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village"/>
     </type>
   <type name="Ammo_380">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>127</min>
+        <min>170</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -445,10 +445,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village"/>
     </type>
   <type name="Ammo_40mm_Chemgas">
-        <nominal>7</nominal>
+        <nominal>10</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>6</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -457,10 +457,10 @@ AVAILABLE CATEGORIES:
         <usage name="ContaminatedArea"/>
     </type>
   <type name="Ammo_40mm_Explosive">
-        <nominal>12</nominal>
+        <nominal>16</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>10</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -472,10 +472,10 @@ AVAILABLE CATEGORIES:
         <value name="Unique"/>
     </type>
   <type name="Ammo_40mm_Smoke_Black">
-        <nominal>22</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -484,10 +484,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_40mm_Smoke_Green">
-        <nominal>22</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -496,10 +496,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_40mm_Smoke_Red">
-        <nominal>22</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -508,10 +508,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_40mm_Smoke_White">
-        <nominal>22</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>16</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -520,10 +520,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_45ACP">
-        <nominal>112</nominal>
+        <nominal>150</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>75</min>
+        <min>100</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -533,10 +533,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_545x39">
-        <nominal>37</nominal>
+        <nominal>50</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>19</min>
+        <min>26</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -546,10 +546,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_545x39Tracer">
-        <nominal>37</nominal>
+        <nominal>50</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -559,10 +559,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_556x45">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>60</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -575,10 +575,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4"/>
     </type>
   <type name="Ammo_556x45Tracer">
-        <nominal>37</nominal>
+        <nominal>50</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>22</min>
+        <min>30</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -591,10 +591,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4"/>
     </type>
   <type name="Ammo_762x39">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>105</min>
+        <min>140</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -609,10 +609,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3"/>
     </type>
   <type name="Ammo_762x39Tracer">
-        <nominal>67</nominal>
+        <nominal>90</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>60</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -625,10 +625,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4"/>
     </type>
   <type name="Ammo_762x54">
-        <nominal>90</nominal>
+        <nominal>120</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>67</min>
+        <min>90</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -644,10 +644,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4"/>
     </type>
   <type name="Ammo_762x54Tracer">
-        <nominal>37</nominal>
+        <nominal>50</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>22</min>
+        <min>30</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -660,10 +660,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4"/>
     </type>
   <type name="Ammo_9x19">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>112</min>
+        <min>150</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -674,10 +674,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village"/>
     </type>
   <type name="Ammo_9x39">
-        <nominal>33</nominal>
+        <nominal>44</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>21</min>
+        <min>28</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -687,10 +687,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military"/>
     </type>
   <type name="Ammo_9x39AP">
-        <nominal>22</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>20</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -713,10 +713,10 @@ AVAILABLE CATEGORIES:
         <category name="weapons"/>
     </type>
   <type name="Ammo_Flare">
-        <nominal>10</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -729,10 +729,10 @@ AVAILABLE CATEGORIES:
         <usage name="Coast"/>
     </type>
   <type name="Ammo_FlareBlue">
-        <nominal>10</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -745,10 +745,10 @@ AVAILABLE CATEGORIES:
         <usage name="Coast"/>
     </type>
   <type name="Ammo_FlareGreen">
-        <nominal>10</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -761,10 +761,10 @@ AVAILABLE CATEGORIES:
         <usage name="Coast"/>
     </type>
   <type name="Ammo_FlareRed">
-        <nominal>10</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -777,10 +777,10 @@ AVAILABLE CATEGORIES:
         <usage name="Coast"/>
     </type>
   <type name="Ammo_HuntingBolt">
-        <nominal>37</nominal>
+        <nominal>50</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>27</min>
+        <min>36</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3267,7 +3267,7 @@ AVAILABLE CATEGORIES:
     </type>
   <type name="CanvasPantsMidi_Beige">
         <nominal>6</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -3279,7 +3279,7 @@ AVAILABLE CATEGORIES:
     </type>
   <type name="CanvasPantsMidi_Blue">
         <nominal>6</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -3291,7 +3291,7 @@ AVAILABLE CATEGORIES:
     </type>
   <type name="CanvasPantsMidi_Grey">
         <nominal>6</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -3303,7 +3303,7 @@ AVAILABLE CATEGORIES:
     </type>
   <type name="CanvasPantsMidi_Red">
         <nominal>6</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -3315,7 +3315,7 @@ AVAILABLE CATEGORIES:
     </type>
   <type name="CanvasPantsMidi_Violet">
         <nominal>6</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>900</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
