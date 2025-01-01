@@ -2828,6 +2828,13 @@
 			<item name="ACOGOptic_6x" chance="0.10" />
 		</attachments>
 	</type>
+	<type name="ImprovisedExplosive">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="Plastic_Explosive" chance="1.00" />
+			<item name="Plastic_Explosive" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="M4_Suppressor">
 		<damage min="0.0" max="0.0" />
 	</type>
