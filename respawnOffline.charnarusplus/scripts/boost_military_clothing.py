@@ -60,11 +60,11 @@ if __name__ == "__main__":
     # Ask for boost percentage
     while True:
         try:
-            boost_percent = float(input("Enter boost percentage (1-99): "))
-            if 1 <= boost_percent <= 99:
+            boost_percent = float(input("Enter boost percentage (1-100): "))
+            if 1 <= boost_percent <= 100:
                 break
             else:
-                print("Please enter a number between 1 and 99")
+                print("Please enter a number between 1 and 100")
         except ValueError:
             print("Please enter a valid number")
 
