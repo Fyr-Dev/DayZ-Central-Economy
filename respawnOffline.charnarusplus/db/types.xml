@@ -10527,279 +10527,279 @@ AVAILABLE CATEGORIES:
   <!-- THIS FILE WAS GENERATED USING DAYZBOOSTERZ TYPES ORGANIZER. YOU CAN VISIT THE ORGANIZER YOURSELF @ https://dayzboosterz.com -->
   <!-- #################### GHILLIES #################### -->
   <type name="GhillieAtt_Mossy">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieAtt_Tan">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieAtt_Winter">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieAtt_Woodland">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieBushrag_Mossy">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieBushrag_Tan">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieBushrag_Winter">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieBushrag_Woodland">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieHood_Mossy">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieHood_Tan">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieHood_Winter">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieHood_Woodland">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieSuit_Mossy">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieSuit_Tan">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="tools" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieSuit_Winter">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieSuit_Woodland">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieTop_Mossy">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieTop_Tan">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieTop_Winter">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="GhillieTop_Woodland">
-        <nominal>20</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Military" />
         <value name="Tier3" />
@@ -12970,6 +12970,7 @@ AVAILABLE CATEGORIES:
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
         <value name="Tier4" />
     </type>
   <type name="MotoHelmet_Black">
@@ -18259,7 +18260,6 @@ AVAILABLE CATEGORIES:
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Industrial" />
-        <usage name="Farm" />
     </type>
   <type name="PartyTent">
         <nominal>10</nominal>
@@ -19230,6 +19230,7 @@ AVAILABLE CATEGORIES:
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <usage name="Military" />
+        <value name="Tier2" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
