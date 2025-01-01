@@ -2842,10 +2842,10 @@ AVAILABLE CATEGORIES:
   <!-- THIS FILE WAS GENERATED USING DAYZBOOSTERZ TYPES ORGANIZER. YOU CAN VISIT THE ORGANIZER YOURSELF @ https://dayzboosterz.com -->
   <!-- #################### BELTS #################### -->
   <type name="CivilianBelt">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2899,10 +2899,10 @@ AVAILABLE CATEGORIES:
         <category name="clothes" />
     </type>
   <type name="MilitaryBelt">
-        <nominal>30</nominal>
+        <nominal>40</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3060,10 +3060,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="BomberJacket_Maroon">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3089,10 +3089,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="BomberJacket_SkyBlue">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3104,10 +3104,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="Breeches_Beetcheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3119,10 +3119,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Breeches_Beige">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3134,10 +3134,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Breeches_Black">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3149,10 +3149,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Breeches_Blackcheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3164,10 +3164,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="Breeches_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3180,10 +3180,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Breeches_Browncheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3195,10 +3195,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="Breeches_Green">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3210,10 +3210,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Breeches_Pink">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3224,10 +3224,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="Breeches_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3238,10 +3238,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="Breeches_White">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>34</min>
+        <min>17</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3326,10 +3326,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CanvasPants_Beige">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3338,10 +3338,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CanvasPants_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3350,10 +3350,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CanvasPants_Grey">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3362,10 +3362,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CanvasPants_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3374,10 +3374,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CanvasPants_Violet">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3386,10 +3386,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="CargoPants_Beige">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3402,10 +3402,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="CargoPants_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3417,10 +3417,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="CargoPants_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3432,10 +3432,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="CargoPants_Green">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3447,10 +3447,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="CargoPants_Grey">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3498,10 +3498,10 @@ AVAILABLE CATEGORIES:
         <usage name="Historical" />
     </type>
   <type name="ChernarusSportShirt">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>58</min>
+        <min>29</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3547,10 +3547,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="DenimJacket">
-        <nominal>68</nominal>
+        <nominal>34</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>56</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3808,10 +3808,10 @@ AVAILABLE CATEGORIES:
         <usage name="Historical" />
     </type>
   <type name="HikingJacket_Black">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3824,10 +3824,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="HikingJacket_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3840,10 +3840,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="HikingJacket_Green">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3855,10 +3855,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="HikingJacket_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3871,10 +3871,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Hoodie_Black">
-        <nominal>90</nominal>
+        <nominal>45</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>70</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3886,10 +3886,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Hoodie_Blue">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>64</min>
+        <min>32</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3901,10 +3901,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Hoodie_Brown">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>64</min>
+        <min>32</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3916,10 +3916,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Hoodie_Green">
-        <nominal>90</nominal>
+        <nominal>45</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>70</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3931,10 +3931,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Hoodie_Grey">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>64</min>
+        <min>32</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3946,10 +3946,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Hoodie_Red">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>64</min>
+        <min>32</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4108,10 +4108,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Jeans_Black">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4122,10 +4122,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Jeans_Blue">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4136,10 +4136,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Jeans_BlueDark">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4150,10 +4150,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Jeans_Brown">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4164,10 +4164,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Jeans_Green">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4178,10 +4178,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Jeans_Grey">
-        <nominal>70</nominal>
+        <nominal>35</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4192,10 +4192,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="JumpsuitJacket_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4207,10 +4207,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="JumpsuitJacket_Gray">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4222,10 +4222,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="JumpsuitJacket_Green">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4237,10 +4237,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="JumpsuitJacket_Red">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4252,10 +4252,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="JumpsuitPants_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4267,10 +4267,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="JumpsuitPants_Green">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4282,10 +4282,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="JumpsuitPants_Grey">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4297,10 +4297,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="JumpsuitPants_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4312,10 +4312,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="LabCoat">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4489,10 +4489,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ManSuit_Beige">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4503,10 +4503,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_Black">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4517,10 +4517,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_Blue">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4531,10 +4531,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_Brown">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4545,10 +4545,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_DarkGrey">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4559,10 +4559,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_Khaki">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4573,10 +4573,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_LightGrey">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4587,10 +4587,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="ManSuit_White">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4672,10 +4672,10 @@ AVAILABLE CATEGORIES:
         <usage name="Medic" />
     </type>
   <type name="MiniDress_BlueChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4686,10 +4686,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_BlueWithDots">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4700,10 +4700,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_BrownChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4714,10 +4714,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_GreenChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4728,10 +4728,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_Pink">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4742,10 +4742,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_PinkChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4756,10 +4756,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_RedChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4770,10 +4770,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="MiniDress_WhiteChecker">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5015,10 +5015,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="QuiltedJacket_Blue">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5046,10 +5046,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="QuiltedJacket_Grey">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5062,10 +5062,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="QuiltedJacket_Orange">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5077,10 +5077,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="QuiltedJacket_Red">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5092,10 +5092,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="QuiltedJacket_Violet">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5107,10 +5107,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="QuiltedJacket_Yellow">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5122,10 +5122,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="Raincoat_Black">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5136,10 +5136,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5150,10 +5150,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Green">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5164,10 +5164,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Orange">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5178,10 +5178,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Pink">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5192,10 +5192,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5206,10 +5206,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Raincoat_Yellow">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5220,10 +5220,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="RidersJacket_Black">
-        <nominal>28</nominal>
+        <nominal>14</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5249,10 +5249,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="Shirt_BlueCheck">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5264,10 +5264,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Shirt_BlueCheckBright">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5279,10 +5279,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Shirt_GreenCheck">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5294,10 +5294,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Shirt_PlaneBlack">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5309,10 +5309,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="Shirt_RedCheck">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5324,10 +5324,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Shirt_WhiteCheck">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5423,10 +5423,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Skirt_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5438,10 +5438,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Skirt_Red">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5453,10 +5453,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Skirt_White">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5468,10 +5468,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Skirt_Yellow">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5483,10 +5483,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="SlacksPants_Beige">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5495,10 +5495,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5507,10 +5507,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5519,10 +5519,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_Brown">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5531,10 +5531,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_DarkGrey">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5543,10 +5543,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_Khaki">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5555,10 +5555,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_LightGrey">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5567,10 +5567,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="SlacksPants_White">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5631,10 +5631,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Sweater_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5647,10 +5647,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Sweater_Gray">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5678,10 +5678,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Sweater_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5884,10 +5884,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military" />
     </type>
   <type name="TelnyashkaShirt">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5897,10 +5897,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="TrackSuitJacket_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5912,10 +5912,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="TrackSuitJacket_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5927,10 +5927,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="TrackSuitJacket_Green">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5941,10 +5941,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="TrackSuitJacket_LightBlue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5955,10 +5955,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="TrackSuitJacket_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5970,10 +5970,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="TrackSuitPants_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5985,10 +5985,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="TrackSuitPants_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6000,10 +6000,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="TrackSuitPants_Green">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6014,10 +6014,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="TrackSuitPants_LightBlue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6028,10 +6028,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="TrackSuitPants_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6043,10 +6043,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Tshirt_10thAnniversary">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6103,10 +6103,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military" />
     </type>
   <type name="Ushanka_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6118,10 +6118,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Ushanka_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6133,10 +6133,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Ushanka_Green">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6145,10 +6145,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WinterCoif_Black">
-        <nominal>28</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6157,10 +6157,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WinterCoif_Blue">
-        <nominal>28</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6169,10 +6169,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WinterCoif_Green">
-        <nominal>28</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6181,10 +6181,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WinterCoif_Skull">
-        <nominal>28</nominal>
+        <nominal>14</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6193,10 +6193,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WomanSuit_Beige">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6207,10 +6207,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="WomanSuit_Black">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6221,10 +6221,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="WomanSuit_Blue">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6235,10 +6235,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="WomanSuit_Brown">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6249,10 +6249,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="WomanSuit_DarkGrey">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6263,10 +6263,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="WomanSuit_Khaki">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6277,10 +6277,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="WomanSuit_LightGrey">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6291,10 +6291,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="WomanSuit_White">
-        <nominal>36</nominal>
+        <nominal>18</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>26</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6705,10 +6705,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military" />
     </type>
   <type name="DressShoes_Beige">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6718,10 +6718,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="DressShoes_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6731,10 +6731,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="DressShoes_Brown">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6744,10 +6744,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="DressShoes_Sunburst">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6757,10 +6757,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="DressShoes_White">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6770,10 +6770,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="HikingBootsLow_Beige">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6784,10 +6784,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HikingBootsLow_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6798,10 +6798,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HikingBootsLow_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6812,10 +6812,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HikingBootsLow_Grey">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6826,10 +6826,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HikingBoots_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6840,10 +6840,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HikingBoots_Brown">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6854,10 +6854,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="JoggingShoes_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6868,10 +6868,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="JoggingShoes_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6882,10 +6882,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="JoggingShoes_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6896,10 +6896,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="JoggingShoes_Violet">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6910,10 +6910,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="JoggingShoes_White">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7110,10 +7110,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="Sneakers_Black">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7124,10 +7124,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="Sneakers_Gray">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7138,10 +7138,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="Sneakers_Green">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7152,10 +7152,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="Sneakers_Red">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7166,10 +7166,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="Sneakers_White">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7192,10 +7192,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military" />
     </type>
   <type name="Wellies_Black">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7207,10 +7207,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="Wellies_Brown">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7222,10 +7222,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="Wellies_Green">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7237,10 +7237,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="Wellies_Grey">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7252,10 +7252,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="WorkingBoots_Beige">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7267,10 +7267,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WorkingBoots_Brown">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7282,10 +7282,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WorkingBoots_Green">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7297,10 +7297,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WorkingBoots_Grey">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7312,10 +7312,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WorkingBoots_Yellow">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10500,10 +10500,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="GasMask_Filter">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -11181,10 +11181,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WoolGloves_White">
-        <nominal>44</nominal>
+        <nominal>22</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11193,10 +11193,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="WorkingGloves_Beige">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11219,10 +11219,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="WorkingGloves_Brown">
-        <nominal>26</nominal>
+        <nominal>13</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11232,10 +11232,10 @@ AVAILABLE CATEGORIES:
         <usage name="Farm" />
     </type>
   <type name="WorkingGloves_Yellow">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11247,10 +11247,10 @@ AVAILABLE CATEGORIES:
   <!-- THIS FILE WAS GENERATED USING DAYZBOOSTERZ TYPES ORGANIZER. YOU CAN VISIT THE ORGANIZER YOURSELF @ https://dayzboosterz.com -->
   <!-- #################### HATS #################### -->
   <type name="BaseballCap_Beige">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11260,10 +11260,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11273,10 +11273,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11286,10 +11286,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_CMMG_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11299,10 +11299,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_CMMG_Pink">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11326,10 +11326,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_Olive">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11339,10 +11339,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_Pink">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11352,10 +11352,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="BaseballCap_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11482,10 +11482,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="BoonieHat_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11497,10 +11497,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="BoonieHat_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11569,10 +11569,10 @@ AVAILABLE CATEGORIES:
         <usage name="Hunting" />
     </type>
   <type name="BoonieHat_Olive">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11584,10 +11584,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="BoonieHat_Orange">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11599,10 +11599,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="BoonieHat_Red">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11614,10 +11614,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="BoonieHat_Tan">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11629,10 +11629,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="BoonieHat_Winter">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11722,10 +11722,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="FlatCap_Black">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11735,10 +11735,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_BlackCheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11748,10 +11748,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11761,10 +11761,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_Brown">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11774,10 +11774,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_BrownCheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11787,10 +11787,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_Grey">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11800,10 +11800,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_GreyCheck">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11813,10 +11813,10 @@ AVAILABLE CATEGORIES:
         <usage name="Town" />
     </type>
   <type name="FlatCap_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>38</min>
+        <min>19</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12325,10 +12325,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="ZmijovkaCap_Black">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12341,10 +12341,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ZmijovkaCap_Blue">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12357,10 +12357,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ZmijovkaCap_Brown">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12390,10 +12390,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ZmijovkaCap_Red">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12504,10 +12504,10 @@ AVAILABLE CATEGORIES:
         <usage name="Military" />
     </type>
   <type name="ConstructionHelmet_Blue">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12517,10 +12517,10 @@ AVAILABLE CATEGORIES:
         <usage name="Industrial" />
     </type>
   <type name="ConstructionHelmet_Lime">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12530,10 +12530,10 @@ AVAILABLE CATEGORIES:
         <usage name="Industrial" />
     </type>
   <type name="ConstructionHelmet_Orange">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12543,10 +12543,10 @@ AVAILABLE CATEGORIES:
         <usage name="Industrial" />
     </type>
   <type name="ConstructionHelmet_Red">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12556,10 +12556,10 @@ AVAILABLE CATEGORIES:
         <usage name="Industrial" />
     </type>
   <type name="ConstructionHelmet_White">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12569,10 +12569,10 @@ AVAILABLE CATEGORIES:
         <usage name="Industrial" />
     </type>
   <type name="ConstructionHelmet_Yellow">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12788,10 +12788,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="DirtBikeHelmet_Mouthguard">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12827,10 +12827,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="DirtBikeHelmet_Visor">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12908,10 +12908,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="HockeyHelmet_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12921,10 +12921,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HockeyHelmet_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12934,10 +12934,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HockeyHelmet_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12947,10 +12947,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="HockeyHelmet_White">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12973,10 +12973,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="MotoHelmet_Black">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12991,10 +12991,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="MotoHelmet_Blue">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13008,10 +13008,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="MotoHelmet_Green">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13025,10 +13025,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="MotoHelmet_Grey">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13043,10 +13043,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="MotoHelmet_Lime">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13059,10 +13059,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="MotoHelmet_Red">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13075,10 +13075,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="MotoHelmet_White">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13091,10 +13091,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="MotoHelmet_Yellow">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13133,10 +13133,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier3" />
     </type>
   <type name="SkateHelmet_Black">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13146,10 +13146,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="SkateHelmet_Blue">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13159,10 +13159,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="SkateHelmet_Gray">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13172,10 +13172,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="SkateHelmet_Green">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13185,10 +13185,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="SkateHelmet_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14924,10 +14924,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier1" />
     </type>
   <type name="BalaclavaMask_White">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14941,10 +14941,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier2" />
     </type>
   <type name="Bandana_Blackpattern">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14957,10 +14957,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Bandana_Camopattern">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14973,10 +14973,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Bandana_Greenpattern">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14989,10 +14989,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="Bandana_Polkapattern">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15002,10 +15002,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="Bandana_Redpattern">
-        <nominal>24</nominal>
+        <nominal>12</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15015,10 +15015,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="DesignerGlasses">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15125,10 +15125,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="HockeyMask">
-        <nominal>50</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15162,10 +15162,10 @@ AVAILABLE CATEGORIES:
         <usage name="Lunapark" />
     </type>
   <type name="NioshFaceMask">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15273,10 +15273,10 @@ AVAILABLE CATEGORIES:
         <usage name="Hunting" />
     </type>
   <type name="Shemag_Red">
-        <nominal>60</nominal>
+        <nominal>30</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>48</min>
+        <min>24</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15340,10 +15340,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="SportGlasses_Black">
-        <nominal>32</nominal>
+        <nominal>16</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15357,10 +15357,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="SportGlasses_Blue">
-        <nominal>32</nominal>
+        <nominal>16</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15374,10 +15374,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="SportGlasses_Green">
-        <nominal>32</nominal>
+        <nominal>16</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15391,10 +15391,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="SportGlasses_Orange">
-        <nominal>32</nominal>
+        <nominal>16</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15408,10 +15408,10 @@ AVAILABLE CATEGORIES:
         <usage name="School" />
     </type>
   <type name="SurgicalMask">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15435,10 +15435,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ThickFramesGlasses">
-        <nominal>44</nominal>
+        <nominal>22</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15448,10 +15448,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="ThinFramesGlasses">
-        <nominal>44</nominal>
+        <nominal>22</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>32</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15461,10 +15461,10 @@ AVAILABLE CATEGORIES:
         <usage name="Village" />
     </type>
   <type name="WeldingMask">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19829,10 +19829,10 @@ AVAILABLE CATEGORIES:
   <!-- THIS FILE WAS GENERATED USING DAYZBOOSTERZ TYPES ORGANIZER. YOU CAN VISIT THE ORGANIZER YOURSELF @ https://dayzboosterz.com -->
   <!-- #################### VESTS #################### -->
   <type name="ChestHolster">
-        <nominal>80</nominal>
+        <nominal>40</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20204,10 +20204,10 @@ AVAILABLE CATEGORIES:
         <value name="Tier4" />
     </type>
   <type name="ReflexVest">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24361,10 +24361,10 @@ AVAILABLE CATEGORIES:
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
   <type name="Sweater_ChristmasBlue">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24373,10 +24373,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="Sweater_ChristmasGreen">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24385,10 +24385,10 @@ AVAILABLE CATEGORIES:
         <usage name="SeasonalEvent" />
     </type>
   <type name="Sweater_ChristmasRed">
-        <nominal>30</nominal>
+        <nominal>15</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
