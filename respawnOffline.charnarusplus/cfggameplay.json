@@ -45,7 +45,9 @@
 	},
 	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": [],
+		"objectSpawnersArr": [
+			"custom/CheckpointBalota.json"
+		],
 		"environmentMinTemps": [
 			0,
 			1,

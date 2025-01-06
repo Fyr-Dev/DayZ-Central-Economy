@@ -18173,5 +18173,40 @@
 				</container>
 		</group>
 		
-		
+<!-- CUSTOM ITEMS -->
+<!-- BALOTA CHECKPOINT ITEMS -->
+
+		<group name="AssaultBag_BelotaCheckpoint" lootmax="1">
+			<container name="loot" lootmax="1">
+			</container>
+			<dispatch>
+				<proxy type="AssaultBag_Black" pos="0.0 0.0 0.0" rpy="-0.0 0.0 0.0" />
+			</dispatch>
+		</group>
+		<group name="AssaultBag1_BelotaCheckpoint" lootmax="1">
+			<container name="loot" lootmax="1">
+			</container>
+			<dispatch>
+				<proxy type="AssaultBag_Green" pos="0.0 0.0 0.0" rpy="-0.0 0.0 0.0" />
+			</dispatch>
+		</group>
+
+		<group name="AKS74_BelotaCheckpoint" lootmax="1">
+			<container name="loot" lootmax="1">
+			</container>
+			<dispatch>
+				<proxy type="AKS74U_Green" pos="0.0 0.0 0.0" rpy="-0.0 0.0 -90" />
+			</dispatch>
+		</group>
+		<group name="AKS741_BelotaCheckpoint" lootmax="1">
+			<container name="loot" lootmax="1">
+			</container>
+			<dispatch>
+				<proxy type="AKS74U_Green" pos="0.0 0.0 0.0" rpy="-0.0 0.0 -90" />
+			</dispatch>
+		</group>
+
+<!-- END OF BALOTA CHECKPOINT -->
+<!-- END OF CUSTOM -->
+
 </prototype>

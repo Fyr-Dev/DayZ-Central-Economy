@@ -26,7 +26,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="CustomSpawn">
-                <pos x="4526.05" z="10265.27" />
+                <pos x="5434.14" z="2060.7" />
             </group>
         </generator_posbubbles>
     </fresh>
@@ -56,7 +56,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="CustomSpawn">
-                <pos x="4526.05" z="10265.27" />
+                <pos x="5434.14" z="2060.7" />
             </group>
         </generator_posbubbles>
     </hop>
@@ -86,7 +86,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="CustomSpawn">
-                <pos x="4526.05" z="10265.27" />
+                <pos x="5434.14" z="2060.7" />
             </group>
         </generator_posbubbles>
     </travel>
