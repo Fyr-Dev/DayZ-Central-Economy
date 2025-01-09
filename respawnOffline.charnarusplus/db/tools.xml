@@ -316,10 +316,10 @@
     <usage name="Historical"/>
   </type>
   <type name="MeatTenderizer">
-    <nominal>280</nominal>
+    <nominal>120</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>240</min>
+    <min>60</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -415,10 +415,10 @@
     <usage name="Village"/>
   </type>
   <type name="PowerGenerator">
-    <nominal>320</nominal>
+    <nominal>160</nominal>
     <lifetime>604800</lifetime>
     <restock>0</restock>
-    <min>200</min>
+    <min>80</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
