@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
 	<classes>
-<!--
+		<!--
 These are rootclasses to be used by economy.
 Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
 Do not forget to add attribute act="car", if root class represents moveable vehicles
 -->
-		<rootclass name="DefaultWeapon" /> <!-- weapons -->
-		<rootclass name="DefaultMagazine" /> <!-- magazines -->
-		<rootclass name="Inventory_Base" /> <!-- inventory items -->
-		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
-		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
-		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
-		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
-		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+		<rootclass name="DefaultWeapon" />
+		<!-- weapons -->
+		<rootclass name="DefaultMagazine" />
+		<!-- magazines -->
+		<rootclass name="Inventory_Base" />
+		<!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+		<!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+		<!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+		<!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" />
+		<!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" />
+		<!-- boats -->
 	</classes>
 	<defaults>
 		<default name="dyn_radius" value="30" />
@@ -35,4 +43,48 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	<ce folder="db">
+		<file name="ammo.xml" type="types" />
+		<file name="animals.xml" type="types" />
+		<file name="armbands.xml" type="types" />
+		<file name="attachments.xml" type="types" />
+		<file name="bags.xml" type="types" />
+		<file name="belts.xml" type="types" />
+		<file name="clothing.xml" type="types" />
+		<file name="clothingimprovised.xml" type="types" />
+		<file name="feet.xml" type="types" />
+		<file name="firearms.xml" type="types" />
+		<file name="flags.xml" type="types" />
+		<file name="food.xml" type="types" />
+		<file name="gasgear.xml" type="types" />
+		<file name="gasmasks.xml" type="types" />
+		<file name="ghillies.xml" type="types" />
+		<file name="gloves.xml" type="types" />
+		<file name="hats.xml" type="types" />
+		<file name="helmets.xml" type="types" />
+		<file name="landnames.xml" type="types" />
+		<file name="lights.xml" type="types" />
+		<file name="magazines.xml" type="types" />
+		<file name="masks.xml" type="types" />
+		<file name="medicals.xml" type="types" />
+		<file name="melee.xml" type="types" />
+		<file name="misc.xml" type="types" />
+		<file name="misseditems.xml" type="types" />
+		<file name="nadestraps.xml" type="types" />
+		<file name="navigation.xml" type="types" />
+		<file name="pelts.xml" type="types" />
+		<file name="plants.xml" type="types" />
+		<file name="scopes.xml" type="types" />
+		<file name="seeds.xml" type="types" />
+		<file name="staticobjects.xml" type="types" />
+		<file name="storage.xml" type="types" />
+		<file name="supplies.xml" type="types" />
+		<file name="suppressors.xml" type="types" />
+		<file name="tacticals.xml" type="types" />
+		<file name="tools.xml" type="types" />
+		<file name="vehicleparts.xml" type="types" />
+		<file name="vehicles.xml" type="types" />
+		<file name="vests.xml" type="types" />
+		<file name="zombies.xml" type="types" />
+	</ce>
 </economycore>

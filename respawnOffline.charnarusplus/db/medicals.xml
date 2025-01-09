@@ -1,0 +1,314 @@
+<!-- #################### MEDICALS #################### -->
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+  <type name="AntiChemInjector">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="BandageDressing">
+    <nominal>160</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>120</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="BloodBagEmpty">
+    <nominal>80</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>40</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="BloodBagFull">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="tools"/>
+  </type>
+  <type name="BloodBagIV">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="tools"/>
+  </type>
+  <type name="BloodTestKit">
+    <nominal>40</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="CharcoalTablets">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>48</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="ChelatingTablets">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="DisinfectantAlcohol">
+    <nominal>320</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>240</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="DisinfectantSpray">
+    <nominal>120</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>80</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="Epinephrine">
+    <nominal>120</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>80</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="FirstAidKit">
+    <nominal>15</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="containers"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="IodineTincture">
+    <nominal>160</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>120</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="Morphine">
+    <nominal>60</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="PainkillerTablets">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>48</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="PurificationTablets">
+    <nominal>200</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>120</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="SalineBag">
+    <nominal>100</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>60</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="SalineBagIV">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="tools"/>
+  </type>
+  <type name="Splint">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="clothes"/>
+  </type>
+  <type name="Splint_Applied">
+    <nominal>0</nominal>
+    <lifetime>3</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    <category name="clothes"/>
+  </type>
+  <type name="StartKitIV">
+    <nominal>120</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>80</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="TetracyclineAntibiotics">
+    <nominal>80</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>48</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Medic"/>
+  </type>
+  <type name="Thermometer">
+    <nominal>160</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>120</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <usage name="Medic"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="VitaminBottle">
+    <nominal>160</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>80</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="tools"/>
+    <tag name="shelves"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+</types>
