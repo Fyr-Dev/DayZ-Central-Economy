@@ -18177,8 +18177,8 @@
 
 	<!-- GUNRACK -->
 
-	<group name="StaticObj_Misc_Gunrack" lootmax="2">
-		<container name="lootFloor" lootmax="2">
+	<group name="StaticObj_Misc_Gunrack" lootmax="24">
+		<container name="lootFloor" lootmax="24">
 			<category name="gunrack_weapons" />
 			<point pos="0.001954 0.097534 0.453613" range="0.4500" height="1.5000" />
 			<point pos="-0.245117 0.261078 -0.248535" range="0.4500" height="1.5000" />
