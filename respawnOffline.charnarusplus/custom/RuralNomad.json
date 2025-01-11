@@ -1,84 +1,13 @@
 {
-    "name": "Policeman",
+    "name": "RuralNomad",
     "spawnWeight": 1,
     "characterTypes": [],
     "attachmentSlotItemSets": [
         {
-            "slotName": "hands",
-            "discreteItemSets": [
-                {
-                    "itemType": "PoliceBaton",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1,
-                        "healthMax": 1,
-                        "quantityMin": 1,
-                        "quantityMax": 1
-                    },
-                    "quickBarSlot": 0,
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "simpleChildrenTypes": [],
-                    "complexChildrenTypes": []
-                }
-            ]
-        },
-        {
-            "slotName": "Vest",
-            "discreteItemSets": [
-                {
-                    "itemType": "ChestHolster",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1,
-                        "healthMax": 1,
-                        "quantityMin": 1,
-                        "quantityMax": 1
-                    },
-                    "quickBarSlot": -1,
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "simpleChildrenTypes": [],
-                    "complexChildrenTypes": [
-                        {
-                            "itemType": "MakarovIJ70",
-                            "attributes": {
-                                "healthMin": 1,
-                                "healthMax": 1,
-                                "quantityMin": 1,
-                                "quantityMax": 1
-                            },
-                            "quickBarSlot": 1,
-                            "simpleChildrenTypes": [
-                                "Mag_IJ70_8Rnd"
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "slotName": "Headgear",
             "discreteItemSets": [
                 {
-                    "itemType": "PoliceCap",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1,
-                        "healthMax": 1,
-                        "quantityMin": 1,
-                        "quantityMax": 1
-                    },
-                    "quickBarSlot": -1,
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "simpleChildrenTypes": [],
-                    "complexChildrenTypes": []
-                }
-            ]
-        },
-        {
-            "slotName": "Gloves",
-            "discreteItemSets": [
-                {
-                    "itemType": "TacticalGloves_Black",
+                    "itemType": "BeanieHat_Brown",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1,
@@ -97,7 +26,7 @@
             "slotName": "Body",
             "discreteItemSets": [
                 {
-                    "itemType": "PoliceJacket",
+                    "itemType": "BomberJacket_Brown",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1,
@@ -107,9 +36,7 @@
                     },
                     "quickBarSlot": -1,
                     "simpleChildrenUseDefaultAttributes": false,
-                    "simpleChildrenTypes": [
-                        "BrisketSpread"
-                    ],
+                    "simpleChildrenTypes": [],
                     "complexChildrenTypes": []
                 }
             ]
@@ -118,7 +45,7 @@
             "slotName": "Legs",
             "discreteItemSets": [
                 {
-                    "itemType": "PolicePants",
+                    "itemType": "Jeans_Blue",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1,
@@ -137,7 +64,7 @@
             "slotName": "Feet",
             "discreteItemSets": [
                 {
-                    "itemType": "JungleBoots_Black",
+                    "itemType": "HikingBoots_Brown",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1,
@@ -153,29 +80,10 @@
             ]
         },
         {
-            "slotName": "Eyewear",
+            "slotName": "Back",
             "discreteItemSets": [
                 {
-                    "itemType": "AviatorGlasses",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1,
-                        "healthMax": 1,
-                        "quantityMin": 1,
-                        "quantityMax": 1
-                    },
-                    "quickBarSlot": -1,
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "simpleChildrenTypes": [],
-                    "complexChildrenTypes": []
-                }
-            ]
-        },
-        {
-            "slotName": "Hips",
-            "discreteItemSets": [
-                {
-                    "itemType": "CivilianBelt",
+                    "itemType": "Slingbag_Brown",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1,
@@ -225,6 +133,28 @@
                         "quantityMax": 1
                     },
                     "quickBarSlot": 3,
+                    "simpleChildrenTypes": []
+                },
+                {
+                    "itemType": "KitchenKnife",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": 4,
+                    "simpleChildrenTypes": []
+                },
+                {
+                    "itemType": "Apple",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1,
                     "simpleChildrenTypes": []
                 }
             ]

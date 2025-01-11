@@ -8,7 +8,10 @@
 	},
 	"PlayerData": {
 		"spawnGearPresetFiles": [
-			"custom/PoliceSpawn.json"
+			"custom/WildernessWanderer.json",
+			"custom/UrbanSurvivor.json",
+			"custom/RuralNomad.json",
+			"custom/MilitaryScavenger.json"
 		],
 		"disablePersonalLight": false,
 		"StaminaData": {
