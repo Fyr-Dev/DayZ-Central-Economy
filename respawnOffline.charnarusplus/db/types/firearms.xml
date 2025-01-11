@@ -66,7 +66,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
@@ -121,7 +121,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier2"/>
     <value name="Tier3"/>
@@ -135,7 +135,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier2"/>
     <value name="Tier3"/>
@@ -420,7 +420,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
   </type>
   <type name="FNX45">
@@ -551,7 +551,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
   </type>
   <type name="M4A1">
@@ -578,7 +578,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
@@ -592,7 +592,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
@@ -636,7 +636,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier2"/>
   </type>
@@ -712,7 +712,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Hunting"/>
@@ -821,6 +821,20 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+  </type>
+  <type name="SKS_Green">
+    <nominal>50</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>25</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="gunrack_weapons"/>
     <usage name="Military"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
@@ -1091,7 +1105,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Hunting"/>
     <usage name="Military"/>
     <value name="Tier3"/>
@@ -1106,7 +1120,7 @@
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <category name="weapons"/>
+    <category name="gunrack_weapons"/>
     <usage name="Hunting"/>
     <usage name="Military"/>
     <value name="Tier3"/>
