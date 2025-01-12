@@ -18177,32 +18177,38 @@
 
 	<!-- GUNRACK -->
 
-	<group name="StaticObj_Misc_Gunrack" lootmax="24">
+	<group name="StaticObj_Misc_Gunrack" lootmax="12">
 		<dispatch>
-			<proxy type="Winchester70_Black" pos="0.410000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="Winchester70_Black" pos="0.305000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="SKS" pos="0.210000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="SKS" pos="0.105000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="AKS74U_Black" pos="-0.405000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="AKS74U_Black" pos="-0.310000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="AK74_Black" pos="-0.205000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="AK74_Black" pos="-0.105000 0.040000 0.315000" rpy="0 0 -90" />
-			<proxy type="M4A1_Black" pos="0.410000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="M4A1_Black" pos="0.305000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="M4A1_Green" pos="0.210000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="M4A1_Green" pos="0.105000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="MP5K" pos="-0.405000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="MP5K" pos="-0.310000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="AKS74U_Green" pos="-0.205000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="AKS74U_Green" pos="-0.105000 0.040000 0.115000" rpy="0 0 -90" />
-			<proxy type="Mosin9130_Camo" pos="-0.410000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="Mosin9130_Camo" pos="-0.310000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="M16A2" pos="-0.205000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="M16A2" pos="-0.105000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="AKM" pos="0.410000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="Winchester70_Green" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="Winchester70_Green" pos="0.205000 0.040000 -0.230000" rpy="0 0 -90" />
-			<proxy type="AKM" pos="0.105000 0.040000 -0.230000" rpy="0 0 -90" />
+			<!-- Front Left -->
+			<proxy type="MP5K" pos="0.410000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Black" pos="0.305000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Black" pos="0.210000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Green" pos="0.105000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<!-- Front Right -->
+			<proxy type="MP5K" pos="-0.405000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Black" pos="-0.310000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Black" pos="-0.205000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<proxy type="AKS74U_Green" pos="-0.105000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
+			<!-- Middle Left -->
+			<proxy type="AK74_Black" pos="0.410000 0.040000 0.115000" rpy="0 0 -90" dechance="0.15" />
+			<proxy type="M16A2" pos="0.305000 0.040000 0.115000" rpy="0 0 -90" dechance="0.15" />
+			<proxy type="M4A1_Black" pos="0.210000 0.040000 0.115000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="M4A1_Green" pos="0.105000 0.040000 0.115000" rpy="0 0 -90" dechance="0.05" />
+			<!-- Middle Right -->
+			<proxy type="AK74_Black" pos="-0.405000 0.040000 0.115000" rpy="0 0 -90" dechance="0.15" />
+			<proxy type="M16A2" pos="-0.310000 0.040000 0.115000" rpy="0 0 -90" dechance="0.15" />
+			<proxy type="M4A1_Black" pos="-0.205000 0.040000 0.115000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="M4A1_Green" pos="-0.105000 0.040000 0.115000" rpy="0 0 -90" dechance="0.05" />
+			<!-- Back Right -->
+			<proxy type="Mosin9130_Camo" pos="-0.410000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.10" />
+			<proxy type="Winchester70_Green" pos="-0.310000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="Winchester70_Black" pos="-0.205000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="SKS" pos="-0.105000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.15" />
+			<!-- Back Left -->
+			<proxy type="Mosin9130_Camo" pos="0.410000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.10" />
+			<proxy type="Winchester70_Green" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="Winchester70_Black" pos="0.205000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.05" />
+			<proxy type="SKS" pos="0.105000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.15" />
 		</dispatch>
 	</group>
 
