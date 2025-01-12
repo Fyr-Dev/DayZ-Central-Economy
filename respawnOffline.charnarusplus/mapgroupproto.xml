@@ -18178,7 +18178,7 @@
 	<!-- GUNRACK -->
 
 	<group name="StaticObj_Misc_Gunrack" lootmax="12">
-		<dispatch>
+		<dispatch dechance="1.00">
 			<!-- Front Left -->
 			<proxy type="MP5K" pos="0.410000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
 			<proxy type="AKS74U_Black" pos="0.305000 0.040000 0.315000" rpy="0 0 -90" dechance="0.20" />
