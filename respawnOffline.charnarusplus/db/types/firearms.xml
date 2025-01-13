@@ -54,28 +54,30 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Military"/>
+    <value name="Tier2"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
   </type>
   <type name="AK74_Black">
-    <nominal>48</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>32</min>
+    <min>6</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Military"/>
+    <value name="Tier2"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
   </type>
   <type name="AK74_Green">
-    <nominal>48</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>32</min>
+    <min>6</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -113,10 +115,10 @@
     <value name="Tier3"/>
   </type>
   <type name="AKS74U_Black">
-    <nominal>40</nominal>
+    <nominal>8</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>35</min>
+    <min>6</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -127,10 +129,10 @@
     <value name="Tier3"/>
   </type>
   <type name="AKS74U_Green">
-    <nominal>40</nominal>
+    <nominal>8</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>35</min>
+    <min>6</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -553,6 +555,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Military"/>
+    <usage name="Police"/>
   </type>
   <type name="M4A1">
     <nominal>16</nominal>
@@ -565,15 +568,14 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Military"/>
-    <value name="Tier2"/>
     <value name="Tier3"/>
     <value name="Tier4"/>
   </type>
   <type name="M4A1_Black">
-    <nominal>16</nominal>
+    <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>6</min>
+    <min>1</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -584,10 +586,10 @@
     <value name="Tier4"/>
   </type>
   <type name="M4A1_Green">
-    <nominal>16</nominal>
+    <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>6</min>
+    <min>1</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -628,17 +630,20 @@
     <value name="Tier3"/>
   </type>
   <type name="MP5K">
-    <nominal>64</nominal>
+    <nominal>25</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>52</min>
+    <min>10</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     <category name="weapons"/>
     <usage name="Military"/>
+    <usage name="Police"/>
     <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
   </type>
   <type name="Magnum">
     <nominal>70</nominal>
@@ -681,10 +686,6 @@
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Hunting"/>
-    <value name="Tier1"/>
-    <value name="Tier2"/>
-    <value name="Tier3"/>
-    <value name="Tier4"/>
   </type>
   <type name="Mosin9130_Black">
     <nominal>40</nominal>
@@ -699,15 +700,13 @@
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Hunting"/>
-    <value name="Tier2"/>
-    <value name="Tier3"/>
-    <value name="Tier4"/>
+    <usage name="Military"/>
   </type>
   <type name="Mosin9130_Camo">
-    <nominal>40</nominal>
+    <nominal>12</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>35</min>
+    <min>6</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -716,9 +715,7 @@
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Hunting"/>
-    <value name="Tier2"/>
-    <value name="Tier3"/>
-    <value name="Tier4"/>
+    <usage name="Military"/>
   </type>
   <type name="Mosin9130_Green">
     <nominal>40</nominal>
@@ -733,9 +730,7 @@
     <usage name="Town"/>
     <usage name="Village"/>
     <usage name="Hunting"/>
-    <value name="Tier2"/>
-    <value name="Tier3"/>
-    <value name="Tier4"/>
+    <usage name="Military"/>
   </type>
   <type name="Mp133Shotgun">
     <nominal>80</nominal>
@@ -812,10 +807,10 @@
     <value name="Tier1"/>
   </type>
   <type name="SKS">
-    <nominal>50</nominal>
+    <nominal>15</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>25</min>
+    <min>4</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -1083,10 +1078,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Winchester70_Black">
-    <nominal>35</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>27</min>
+    <min>3</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -1098,10 +1093,10 @@
     <value name="Tier4"/>
   </type>
   <type name="Winchester70_Green">
-    <nominal>35</nominal>
+    <nominal>6</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>27</min>
+    <min>3</min>
     <quantmin>100</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
