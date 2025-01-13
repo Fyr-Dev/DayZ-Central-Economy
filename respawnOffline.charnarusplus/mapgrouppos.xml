@@ -11684,253 +11684,126 @@
     <!-- CUSTOM PLACES -->
     <!-- CHECKPOINT BALOTA -->
 
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5386.139648 3.189622 1952.727783" rpy="-9.950677 4.463326 0.000000" a="90"/>
-    <group name="StaticObj_Decal_damage_small1_DE" pos="5390.598145 5.775656 2068.051514" rpy="-0.000000 0.000000 107.329323" a="-17.3293"/>
-    <group name="StaticObj_Garbage_Bin2" pos="5313.039063 6.221597 2086.868164" rpy="-0.000000 0.000000 12.012334" a="77.9877"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5377.726563 3.502199 1955.607300" rpy="0.151552 7.215196 0.000000" a="90"/>
-    <group name="StaticObj_Decal_dirt_rocks2" pos="5402.972656 6.491891 2069.209717" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="StaticObj_Roads_Partpath_dirt_10" pos="5311.468750 5.719437 2091.412354" rpy="-0.010634 -0.044031 8.000951" a="81.999"/>
-    <group name="StaticObj_Wall_FenG_Pole" pos="5372.232422 5.174287 2088.144287" rpy="-0.000000 0.000000 -78.854103" a="168.854"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5371.826660 2.563056 1948.181885" rpy="-1.832473 1.144677 0.000000" a="90"/>
-    <group name="StaticObj_Roadblock_Bags_EndR" pos="5382.392090 13.877049 2132.892578" rpy="3.357501 9.544185 0.348816" a="89.6512"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5370.875977 2.552731 1938.716675" rpy="-2.061692 -0.457941 0.000000" a="90"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5394.427734 6.789690 1975.071655" rpy="3.552840 -0.777603 -87.297935" a="177.298"/>
-    <group name="StaticObj_Decal_oilstain1" pos="5420.193359 6.203613 2058.529053" rpy="-0.000000 0.000000 55.818199" a="34.1818"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5368.690918 2.552454 1935.760986" rpy="-0.229172 0.534708 0.000000" a="90"/>
-    <group name="StaticObj_Decal_damage_medium4" pos="5410.993164 6.257751 2058.787354" rpy="-0.000000 0.000000 174.741562" a="-84.7416"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5394.922363 6.323161 1984.465820" rpy="3.230411 -1.143996 -87.297935" a="177.298"/>
-    <group name="Land_Mil_Guardhouse2" pos="5368.958008 7.083310 2060.375488" rpy="-0.000000 0.000000 99.685791" a="-9.68579"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5409.127930 2.997630 1936.096436" rpy="-5.103069 1.518739 0.000000" a="90"/>
-    <group name="StaticObj_Roadblock_Bags_EndL" pos="5384.800781 13.438426 2130.890869" rpy="-8.976409 4.681015 -81.292610" a="171.293"/>
-    <group name="StaticObj_Garbage_GroundSq_5m" pos="5313.454590 5.708083 2086.427734" rpy="-0.076396 -0.000105 89.921242" a="0.0787582"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5411.885254 3.754863 1941.128418" rpy="-11.701509 7.997764 0.000000" a="90"/>
-    <group name="Land_Mil_Guardhouse2" pos="5371.818359 7.110767 2074.198242" rpy="-0.000000 0.000000 -78.047211" a="168.047"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5421.381348 2.977232 1929.452393" rpy="-1.515921 6.993461 0.000000" a="90"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5398.772461 6.666089 2053.627197" rpy="1.039340 -0.660662 -87.297935" a="177.298"/>
-    <group name="Land_Mil_ControlTower" pos="5374.704590 12.172384 2090.120361" rpy="-0.431772 0.877625 -77.533386" a="167.533"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5412.719238 2.656269 1929.694458" rpy="-5.068700 6.742167 0.000000" a="90"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5375.066406 5.914551 2085.738281" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
-    <group name="StaticObj_Furniture_shelfs_small" pos="5372.998047 5.363895 2087.961182" rpy="-0.000000 0.000000 -75.845551" a="165.846"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5436.858398 2.496123 1920.458618" rpy="-3.472018 8.276776 0.000000" a="90"/>
-    <group name="StaticObj_Pier_Concrete1" pos="5372.936523 0.741775 2084.453369" rpy="-0.000000 0.000000 11.254299" a="78.7457"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5373.256836 2.570188 1933.362671" rpy="10.935272 2.010314 90.000000" a="0"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.605469 7.223964 2099.714600" rpy="-10.781254 -2.924004 -87.297935" a="177.298"/>
-    <group name="StaticObj_Wall_Wood5_4_End" pos="5376.695313 5.878466 2079.628174" rpy="-0.000000 0.000000 9.618806" a="80.3812"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5375.586914 2.849449 1946.253174" rpy="1.145178 1.831101 90.000000" a="0"/>
-    <group name="StaticObj_Wall_IndFnc2_3" pos="5374.791016 5.387239 2095.597656" rpy="-4.370275 0.688647 -79.051399" a="169.051"/>
-    <group name="StaticObj_Garbage_Pile8" pos="5313.501465 6.217781 2088.371582" rpy="0.029507 0.070468 -157.279663" a="-112.72"/>
-    <group name="Land_Wall_Gate_Tin6_1" pos="5310.883301 6.455523 2087.850098" rpy="-0.000000 0.000000 12.831611" a="77.1684"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5400.829590 2.766021 1934.808838" rpy="7.964514 2.033538 90.000000" a="0"/>
-    <group name="StaticObj_Wall_Wood5_4_End" pos="5376.752930 6.675711 2079.617676" rpy="-0.000000 0.000000 9.618806" a="80.3812"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.832520 9.544133 2108.039063" rpy="-13.409802 -5.368222 -87.297935" a="177.298"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5383.930176 2.908653 1936.610474" rpy="0.358154 -0.333145 -85.730652" a="175.731"/>
-    <group name="StaticObj_Furniture_canister_DZ" pos="5307.401855 7.436424 2087.191650" rpy="1.000000 5.900000 0.000000" a="90"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5374.272461 5.935547 2081.984619" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.937012 11.650757 2117.144775" rpy="-9.384785 -7.953038 -87.297935" a="177.298"/>
-    <group name="StaticObj_Furniture_canister_DZ" pos="5308.019043 7.211239 2086.573486" rpy="-90.000000 6.900000 -0.000000" a="90"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5416.693359 3.322055 1931.524902" rpy="-6.928374 0.684388 -73.634277" a="163.634"/>
-    <group name="StaticObj_Shed_Open_Big_Complete" pos="5370.068848 9.245137 2067.316650" rpy="-0.000000 0.000000 -79.983170" a="169.983"/>
-    <group name="StaticObj_Furniture_locker_closed_v1" pos="5373.689453 5.363895 2087.765625" rpy="-0.000000 0.000000 11.227495" a="78.7725"/>
-    <group name="StaticObj_Roadblock_Pillbox" pos="5371.424805 3.028980 1942.832520" rpy="-0.964061 0.599891 12.242111" a="77.7579"/>
-    <group name="StaticObj_Wall_IndFnc2_9" pos="5375.864258 6.062890 2101.448486" rpy="-5.120933 0.798619 -79.034584" a="169.035"/>
-    <group name="StaticObj_Roadblock_Bags_Long" pos="5378.021973 2.183163 1934.572266" rpy="0.763898 10.511787 0.000000" a="90"/>
-    <group name="StaticObj_Garbage_Pile7" pos="5317.344238 6.191846 2099.540283" rpy="1.081955 2.694475 114.866219" a="-24.8662"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5369.361328 6.587822 2052.280762" rpy="-0.000000 0.000000 -128.979431" a="-141.021"/>
-    <group name="StaticObj_Roadblock_Bags_Curve" pos="5391.757813 3.061974 1938.770020" rpy="2.449070 -4.182611 -165.268555" a="-104.731"/>
-    <group name="Land_Mil_Tower_Small" pos="5272.780273 9.370916 2077.749268" rpy="-0.000000 0.000000 -46.199406" a="136.199"/>
-    <group name="Land_Boat_Small7" pos="5365.822266 1.990252 1935.747070" rpy="-0.229172 0.534708 0.000000" a="90"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5368.788086 6.631085 2044.337158" rpy="-0.000000 0.000000 -56.109707" a="146.11"/>
-    <group name="StaticObj_Roadblock_Bags_Long" pos="5414.830078 2.859484 1934.456055" rpy="-2.189171 8.193596 21.860920" a="68.1391"/>
-    <group name="StaticObj_Garbage_Container2_Open" pos="5370.155273 5.307803 2084.132568" rpy="4.572200 -1.474026 -75.347313" a="165.347"/>
-    <group name="StaticObj_Misc_Barbedwire" pos="5409.239746 17.677263 2142.426270" rpy="0.120642 21.092690 65.582748" a="24.4173"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5364.420898 6.827274 1970.478638" rpy="-0.611112 -0.458305 0.000000" a="90"/>
-    <group name="Land_Wreck_offroad02_aban2" pos="5307.362305 7.340272 2092.302734" rpy="-0.000000 0.000000 -166.033890" a="-103.966"/>
-    <group name="StaticObj_Wall_IndFnc2_Corner" pos="5381.564453 13.436229 2130.942627" rpy="-11.521626 3.069529 -77.763168" a="167.763"/>
-    <group name="StaticObj_Misc_Barbedwire" pos="5399.702637 16.737316 2152.308838" rpy="3.257728 8.418071 65.582741" a="24.4173"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5366.462402 6.653915 2036.973267" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
-    <group name="StaticObj_Mil_HBarrier_6m" pos="5292.790039 6.629315 2057.187744" rpy="0.000000 0.000000 138.801819" a="-48.8018"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5355.463867 6.994525 1958.048584" rpy="9.535627 -0.599822 0.000000" a="90"/>
-    <group name="StaticObj_Garbage_Pile3" pos="5307.160645 5.945807 2094.626465" rpy="3.052880 -3.045676 0.000000" a="90"/>
-    <group name="Land_Wreck_offroad02_aban2" pos="5306.021973 6.684139 2092.757080" rpy="-89.999985 -2.880811 -168.728867" a="-101.271"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5367.256348 6.632919 2040.726929" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
-    <group name="StaticObj_Misc_Razorwire" pos="5359.513672 7.062320 1967.612305" rpy="-1.511660 0.027793 136.053665" a="-46.0537"/>
-    <group name="StaticObj_Furniture_locker_open_v2" pos="5374.083984 5.363895 2087.690918" rpy="-0.000000 0.000000 11.663515" a="78.3365"/>
-    <group name="StaticObj_Mil_HBarrier_6m" pos="5281.363281 6.629315 2055.854736" rpy="-0.000000 -0.000000 -174.992737" a="-95.0073"/>
-    <group name="Land_Mil_ControlTower" pos="5364.503906 13.658787 2031.501831" rpy="-0.431772 0.877583 -77.533386" a="167.533"/>
-    <group name="StaticObj_Misc_GContainer_Big" pos="5315.838379 6.249114 2089.318359" rpy="-0.008903 -0.075876 31.043703" a="58.9563"/>
-    <group name="StaticObj_Misc_Barbedwire" pos="5390.664551 16.441156 2168.923584" rpy="-1.765330 3.810391 70.392136" a="19.6079"/>
-    <group name="StaticObj_Wall_IndFnc2_9" pos="5377.702148 7.485534 2110.212891" rpy="-11.335360 -1.752630 -77.741478" a="167.741"/>
-    <group name="StaticObj_Garbage_GroundSq_5m_NoLC" pos="5367.826660 4.538393 2085.473877" rpy="0.152788 0.381963 0.000000" a="90"/>
-    <group name="StaticObj_Mil_HBarrier_6m" pos="5269.944336 6.629315 2056.773193" rpy="-0.000000 -0.000000 -174.992722" a="-95.0073"/>
-    <group name="StaticObj_ShellCrater1" pos="5393.856934 4.601497 2083.433350" rpy="0.381118 -3.802688 0.000000" a="90"/>
-    <group name="Land_Wreck_hb02_aban2_blue" pos="5425.672363 6.949255 2058.872314" rpy="0.006300 0.076132 94.730644" a="-4.73064"/>
-    <group name="StaticObj_Garbage_Container2_Open" pos="5306.365723 6.383185 2095.941406" rpy="-0.000000 0.000000 77.679146" a="12.3209"/>
-    <group name="StaticObj_Mil_Artilery_Nest" pos="5358.766113 5.820552 1982.064453" rpy="-0.000000 0.000000 82.634277" a="7.36572"/>
-    <group name="StaticObj_Garbage_Pile1" pos="5308.834961 5.622003 2104.750977" rpy="-0.763901 -1.603464 0.000000" a="90"/>
-    <group name="StaticObj_Mil_HBarrier_6m" pos="5264.496094 6.629315 2067.382080" rpy="0.000000 0.000000 -88.492805" a="178.493"/>
-    <group name="StaticObj_Wall_IndFnc2_9" pos="5379.375488 9.841814 2118.564453" rpy="-21.188789 -2.846592 -77.915520" a="167.916"/>
-    <group name="Land_Mil_GuardTower" pos="5346.854492 13.180639 1960.882324" rpy="1.587698 2.300288 -72.869728" a="162.87"/>
-    <group name="StaticObj_ShellCrater2_Debris" pos="5395.000977 4.730794 2084.905029" rpy="-3.046134 -0.379893 0.000000" a="90"/>
     <group name="StaticObj_Misc_Razorwire" pos="5390.676270 5.413677 2093.602539" rpy="-7.932525 -4.422968 -94.730652" a="-175.269"/>
     <group name="StaticObj_Furniture_canister_DZ" pos="5317.376953 6.223149 2083.358643" rpy="-0.000000 0.000000 -26.467249" a="116.467"/>
     <group name="StaticObj_Garbage_Pile2" pos="5368.864746 5.938203 2053.153564" rpy="-0.000000 0.000000 37.061646" a="52.9384"/>
-    <group name="StaticObj_Furniture_locker_closed_v2" pos="5374.474609 5.363895 2087.590332" rpy="-0.000000 0.000000 11.271098" a="78.7289"/>
     <group name="StaticObj_Misc_Razorwire" pos="5357.004883 5.989033 1950.469849" rpy="1.471947 -13.402685 114.338486" a="-24.3385"/>
     <group name="StaticObj_Dead_pile2" pos="5377.346680 4.681764 2085.651367" rpy="0.763858 0.611013 0.000000" a="90"/>
     <group name="StaticObj_Furniture_canister_DZ" pos="5318.078125 6.102906 2083.283203" rpy="-0.000005 89.980209 -1.482528" a="91.4825"/>
-    <group name="StaticObj_ShellCrater2_Large" pos="5383.579102 4.904794 2048.412109" rpy="-0.000000 -1.755144 0.000000" a="90"/>
     <group name="StaticObj_ShellCrater2_Small" pos="5377.536133 3.905175 2085.470459" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Misc_Razorwire" pos="5395.256836 7.729991 2104.205078" rpy="-14.526420 -0.259729 -70.392166" a="160.392"/>
     <group name="Land_wreck_truck01_aban1_green" pos="5379.165039 5.005944 2078.965332" rpy="0.764721 -5.697899 -9.112803" a="99.1128"/>
-    <group name="Land_Wreck_sed01_aban1_police" pos="5310.262695 6.070249 2099.670898" rpy="2.522697 -1.710662 -55.818207" a="145.818"/>
     <group name="StaticObj_Misc_Pallet" pos="5307.774902 6.942088 2086.824463" rpy="1.002449 5.899971 0.178642" a="89.8214"/>
     <group name="StaticObj_Garbage_Pile7" pos="5375.584961 5.145978 2082.181641" rpy="-5.828828 0.449041 102.656158" a="-12.6562"/>
     <group name="StaticObj_Roadblock_CncBlocks_short" pos="5372.501465 6.062642 2056.318604" rpy="-0.000000 0.000000 9.618806" a="80.3812"/>
-    <group name="StaticObj_Furniture_flag_chernarus_pole" pos="5375.873047 8.041225 2076.539795" rpy="-0.000000 0.000000 10.159248" a="79.8408"/>
     <group name="StaticObj_Misc_Razorwire" pos="5387.850098 10.199100 2117.159912" rpy="-16.979601 -5.096440 -70.392197" a="160.392"/>
     <group name="StaticObj_Furniture_canister_DZ" pos="5307.317871 7.338600 2086.635986" rpy="0.849132 5.899821 -0.448059" a="90.4481"/>
     <group name="StaticObj_Ruin_Rubble" pos="5370.176270 5.640983 2067.364014" rpy="-0.000000 0.000000 24.700495" a="65.2995"/>
-    <group name="StaticObj_Wreck_Train_742_Blue" pos="5392.755859 8.853625 2047.570923" rpy="0.006846 0.152631 89.197548" a="0.802452"/>
     <group name="StaticObj_Decal_Heli_Army" pos="5321.737305 5.829352 2031.726318" rpy="1.145535 -20.014261 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5377.415527 5.364327 2095.060303" rpy="4.343208 -0.842703 102.977180" a="-12.9772"/>
     <group name="StaticObj_Wall_IndFnc_Pole" pos="5377.161621 5.240530 2093.527588" rpy="4.319138 -0.957794 104.502937" a="-14.5029"/>
-    <group name="StaticObj_Furniture_flag_chernarus_wall" pos="5374.863770 7.102262 2084.785156" rpy="-0.000000 0.000000 102.185699" a="-12.1857"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5380.323730 7.251752 2109.604004" rpy="11.290268 2.023320 100.876213" a="-10.8762"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5381.858398 9.789103 2117.999756" rpy="19.324062 2.038686 100.876213" a="-10.8762"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5383.463867 12.523225 2126.273438" rpy="12.777280 -3.384661 100.876221" a="-10.8762"/>
-    <group name="Land_wreck_truck01_aban1_blue" pos="5305.504883 5.704006 2087.090576" rpy="0.006301 0.076136 94.730652" a="-4.73065"/>
     <group name="Land_Mil_Fortified_Nest_Watchtower" pos="5386.095215 15.370796 2134.169678" rpy="-5.863393 8.554385 -56.727592" a="146.728"/>
     <group name="StaticObj_Rubble_DirtPile_Medium2" pos="5383.018555 14.207769 2138.547607" rpy="-0.000000 0.000000 -51.154545" a="141.155"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5299.226074 6.285724 2078.647217" rpy="-0.743958 0.173378 13.119269" a="76.8807"/>
-    <group name="StaticObj_Wreck_Train_Wagon_Flat" pos="5407.921875 7.014926 2047.495117" rpy="-0.000000 0.000000 91.661278" a="-1.66128"/>
     <group name="StaticObj_Rubble_DirtPile_Medium2" pos="5383.769531 14.141654 2139.427979" rpy="-0.000000 0.000000 -14.573937" a="104.574"/>
     <group name="StaticObj_Misc_WoodPile_Forest1" pos="5385.833496 14.505222 2139.020020" rpy="5.961307 -2.503435 31.670815" a="58.3292"/>
     <group name="StaticObj_Roadblock_Bags_Long" pos="5390.662109 11.178338 2133.320557" rpy="8.947716 3.618685 26.591730" a="63.4083"/>
-    <group name="Land_Wall_FenForest_Gate" pos="5381.249512 13.291962 2128.898682" rpy="13.141980 -1.617621 92.918541" a="-2.91854"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5287.161133 6.229315 2081.812012" rpy="-0.000000 -0.000000 13.821813" a="76.1782"/>
     <group name="StaticObj_Roadblock_Bags_Long" pos="5390.279297 11.448659 2135.451904" rpy="-3.637956 8.876133 -63.183762" a="153.184"/>
     <group name="StaticObj_Mil_Artilery_Rampart" pos="5396.150391 13.047047 2131.565186" rpy="-3.585848 7.255700 0.000000" a="90"/>
-    <group name="StaticObj_Mil_CamoNet_Tent2" pos="5352.369141 7.532556 2055.890625" rpy="-0.000000 0.000000 -87.443665" a="177.444"/>
     <group name="StaticObj_Mil_Artilery_Rampart" pos="5405.539063 14.001821 2131.596191" rpy="-9.313625 8.616273 0.000000" a="90"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5281.786621 6.229315 2083.188965" rpy="-0.000000 0.000000 13.821812" a="76.1782"/>
-    <group name="StaticObj_BusStation_wall" pos="5374.295898 5.929955 2082.165283" rpy="-0.000000 0.000000 11.576305" a="78.4237"/>
     <group name="StaticObj_Mil_HBarrier_Round" pos="5276.676758 6.226165 2083.498291" rpy="-0.000000 0.000000 -178.566864" a="-91.4331"/>
-    <group name="StaticObj_ShellCrater1" pos="5417.596680 5.568392 2074.623047" rpy="-1.344786 3.909491 128.833679" a="-38.8337"/>
     <group name="StaticObj_Wall_IndFnc2_3_D_nolc" pos="5377.831055 5.551253 2097.903076" rpy="-0.000000 0.000000 105.101555" a="-15.1016"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5379.246094 6.228816 2103.784424" rpy="6.848560 -0.119526 99.944237" a="-9.94424"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5378.694336 5.695159 2100.877930" rpy="6.848565 -0.119526 99.944221" a="-9.94422"/>
-    <group name="StaticObj_ShellCrater2_Debris" pos="5418.020020 5.863503 2072.816162" rpy="-1.344787 3.909490 128.833664" a="-38.8337"/>
     <group name="StaticObj_Mil_HBarrier_Round" pos="5271.429688 6.226165 2081.721436" rpy="-0.000000 0.000000 153.527008" a="-63.527"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5375.623047 4.781056 2096.531494" rpy="-0.000000 0.000000 6.494399" a="83.5056"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5377.395508 5.543802 2104.348145" rpy="-0.000000 0.000000 8.674495" a="81.3255"/>
-    <group name="StaticObj_Decal_Runway_HoldShort" pos="5310.454590 5.708344 2085.773926" rpy="3.718441 5.408270 -164.603882" a="-105.396"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5378.550293 6.388738 2109.492188" rpy="-2.515904 11.126178 8.674495" a="81.3255"/>
     <group name="StaticObj_Mil_HBarrier_Round" pos="5267.563477 6.226165 2078.007568" rpy="0.000000 0.000000 134.733093" a="-44.7331"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5379.963379 7.698336 2116.904053" rpy="-2.515903 11.051147 8.674495" a="81.3255"/>
-    <group name="StaticObj_Wreck_Mi8" pos="5317.989746 8.003738 2031.151978" rpy="0.274175 0.465335 -104.495178" a="-165.505"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5381.354004 10.868051 2123.475098" rpy="-2.639565 18.468014 8.674495" a="81.3255"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5378.872559 12.520685 2128.953857" rpy="-13.202991 0.978029 -89.911736" a="179.912"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5265.252441 6.474948 2072.911133" rpy="-2.957553 0.755853 104.349449" a="-14.3494"/>
-    <group name="StaticObj_Furniture_case_d" pos="5373.132813 5.363895 2085.024658" rpy="-0.000000 0.000000 13.080577" a="76.9194"/>
     <group name="StaticObj_Lamp_Stadium" pos="5372.915527 -3.882918 2060.117188" rpy="-0.000000 0.000000 165.583542" a="-75.5835"/>
     <group name="StaticObj_Panel_Concrete_2" pos="5370.622559 5.691245 2059.430420" rpy="-0.089704 -0.060211 11.130787" a="78.8692"/>
     <group name="StaticObj_Panel_Concrete_2" pos="5373.704590 5.594915 2074.680664" rpy="-0.089704 -0.060211 11.130787" a="78.8692"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5366.904785 6.005338 2077.116455" rpy="-0.000000 0.000000 10.949524" a="79.0505"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5302.325684 6.327047 2075.698975" rpy="0.175210 0.743446 103.259949" a="-13.2599"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5375.609863 5.932996 2072.568604" rpy="4.456235 -1.331874 -75.201546" a="165.202"/>
     <group name="StaticObj_Misc_BagFence_3m" pos="5363.406250 5.804587 2074.087158" rpy="-0.000000 0.000000 11.355143" a="78.6449"/>
-    <group name="Land_Container_1Bo" pos="5321.150879 6.940809 2087.281738" rpy="-0.045018 -0.537206 7.401189" a="82.5988"/>
     <group name="StaticObj_Misc_BagFence_Corner" pos="5366.503906 5.759483 2074.818359" rpy="-0.000000 0.000000 -77.460251" a="167.46"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5301.060059 6.328466 2070.068115" rpy="-0.743531 0.175204 103.259949" a="-13.2599"/>
     <group name="StaticObj_Target_Concrete_Block" pos="5364.971191 5.181137 2075.593018" rpy="-0.000000 0.000000 12.861153" a="77.1388"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5363.135742 6.026334 2077.829102" rpy="-0.000000 0.000000 10.949524" a="79.0505"/>
     <group name="StaticObj_Target_Concrete_Ramp" pos="5359.562500 5.452963 2076.033691" rpy="-0.000000 0.000000 -82.136551" a="172.137"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5360.553223 5.923294 2074.506592" rpy="1.937203 -3.451307 8.720387" a="81.2796"/>
     <group name="StaticObj_Mil_HBarrier_4m" pos="5300.019043 6.434221 2065.639404" rpy="2.238879 -0.483674 -77.803070" a="167.803"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5357.420898 5.999629 2075.084717" rpy="-0.041682 -0.852905 13.102383" a="76.8976"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5354.313965 6.034358 2075.617432" rpy="0.778569 -0.969212 8.720387" a="81.2796"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5351.203613 6.075331 2076.216797" rpy="0.702221 -1.025842 13.102381" a="76.8976"/>
-    <group name="StaticObj_Furniture_case_d" pos="5372.950684 5.363895 2084.364746" rpy="-0.000000 0.000000 9.832237" a="80.1678"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5297.099121 6.629315 2061.034912" rpy="-0.000000 0.000000 138.801819" a="-48.8018"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5362.179688 6.086531 2068.877930" rpy="0.151022 -0.023165 5.101428" a="84.8986"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5359.084473 6.094784 2069.491699" rpy="0.148811 -0.034636 14.563044" a="75.437"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5359.233887 6.033930 2078.550781" rpy="1.195558 -6.642535 10.949523" a="79.0505"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5368.412598 6.125099 2067.758545" rpy="-0.377552 0.057910 4.360193" a="85.6398"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5365.303711 6.104372 2068.359619" rpy="-0.372024 0.086588 15.674895" a="74.3251"/>
     <group name="StaticObj_Misc_ConcreteBlock1_End" pos="5356.287109 5.969504 2070.294189" rpy="-0.000000 0.000000 111.782166" a="-21.7822"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5355.710938 6.119139 2061.396973" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5372.766113 6.139362 2066.993164" rpy="0.075911 -0.008596 -173.539734" a="-96.4603"/>
     <group name="StaticObj_Mil_HBarrier_1m" pos="5299.543945 6.573404 2063.366699" rpy="1.968923 -1.169898 -59.267345" a="149.267"/>
     <group name="StaticObj_Misc_ConcreteBlock1_End" pos="5384.796387 6.036375 2064.015625" rpy="-0.061858 -0.139706 -66.117737" a="156.118"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5359.419922 6.140134 2060.435791" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5382.031738 6.157760 2064.918945" rpy="0.146372 -0.043811 -163.336868" a="-106.663"/>
     <group name="StaticObj_Misc_ConcreteBlock2" pos="5378.965820 6.149584 2065.645752" rpy="0.151583 -0.019153 -172.798462" a="-97.2015"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5287.122559 6.629315 2055.406494" rpy="-0.000000 0.000000 -174.992737" a="-95.0073"/>
-    <group name="StaticObj_Furniture_box_c" pos="5374.885254 5.691759 2086.372314" rpy="-0.000000 0.000000 93.526154" a="-3.52615"/>
     <group name="StaticObj_Misc_ConcreteBlock2_Stripes" pos="5375.850586 6.143475 2066.281006" rpy="0.072749 -0.023322 -162.225021" a="-107.775"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5378.575195 6.321729 2056.275635" rpy="-0.152788 -0.076392 0.000000" a="90"/>
     <group name="StaticObj_Misc_Pallets3" pos="5358.291016 5.404497 2079.413086" rpy="2.443139 -6.294655 14.497641" a="75.5024"/>
-    <group name="StaticObj_Wall_MilCnc_4" pos="5363.271973 6.147730 2059.461182" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
     <group name="StaticObj_Misc_RoadBarrier_2" pos="5374.592773 8.652827 2069.203125" rpy="-0.013437 -0.034954 -79.870102" a="169.87"/>
     <group name="Land_wreck_truck01_aban1_firetruck" pos="5391.878418 6.000000 2040.471924" rpy="-0.000000 -0.000000 -138.452469" a="-131.548"/>
     <group name="StaticObj_Decon_LayFlatHose_01_SBend_F" pos="5393.301270 6.051810 2040.547974" rpy="-0.000000 0.000000 73.161201" a="16.8388"/>
-    <group name="StaticObj_Roadblock_Pillbox" pos="5356.473633 6.927426 2055.391357" rpy="0.126634 -1.646434 29.293629" a="60.7064"/>
     <group name="StaticObj_Mil_HBarrier_1m" pos="5290.357422 6.607594 2055.318848" rpy="-0.000000 0.000000 -16.350725" a="106.351"/>
     <group name="StaticObj_Rubble_DirtPile_Medium2" pos="5383.476563 6.749458 2048.254395" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="Land_Wreck_hb01_aban1_police" pos="5397.254395 6.891924 2060.881348" rpy="-0.651598 0.484567 -138.913193" a="-131.087"/>
-    <group name="StaticObj_Misc_Pallets2" pos="5318.656738 6.130921 2085.022461" rpy="0.076136 0.006301 -94.730644" a="-175.269"/>
     <group name="Land_Wreck_sed02_aban2_yellow" pos="5406.441895 6.623809 2060.690186" rpy="-0.197791 0.519747 85.111839" a="4.88816"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5275.703613 6.629315 2056.324951" rpy="-0.000000 -0.000000 -174.992722" a="-95.0073"/>
     <group name="Land_Wreck_sed02_aban1_grey_DE" pos="5430.916016 7.139702 2059.520020" rpy="-0.114111 0.522422 77.679123" a="12.3209"/>
-    <group name="StaticObj_Roadblock_Bags_Long" pos="5352.956055 5.789921 2054.087158" rpy="0.733209 0.793147 -92.253075" a="-177.747"/>
     <group name="Land_Wreck_hb02_aban1_red_DE" pos="5436.383789 7.093477 2059.135254" rpy="0.100360 0.607643 92.253075" a="-2.25307"/>
     <group name="StaticObj_Forest_HumanSkeleton" pos="5425.742188 6.295768 2059.479248" rpy="-0.024902 0.072220 70.975121" a="19.0249"/>
     <group name="Land_Mil_Antena_K7" pos="5362.466309 14.821833 2039.822021" rpy="-0.000000 0.000000 0.000000" a="90"/>
-    <group name="StaticObj_Furniture_box_c" pos="5374.744629 5.619846 2087.054932" rpy="-0.000000 0.000000 -7.080737" a="97.0807"/>
     <group name="Land_Mil_GuardBox_Green" pos="5377.546387 6.350441 2073.416016" rpy="-1.320245 -4.456533 14.573939" a="75.4261"/>
     <group name="StaticObj_Wreck_HMMWV" pos="5387.208008 6.707053 2056.379883" rpy="0.265748 -0.169081 -133.497345" a="-136.503"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5264.401855 6.629315 2061.605957" rpy="0.000000 0.000000 -88.492805" a="178.493"/>
-    <group name="StaticObj_Furniture_office_table_a" pos="5355.824707 5.836132 2057.111328" rpy="0.966414 -0.980796 -65.582741" a="155.583"/>
     <group name="StaticObj_Wall_IndFnc2_Pole_nolc" pos="5361.675781 6.367749 2025.211426" rpy="-1.671279 -0.325884 -74.493896" a="164.494"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5362.244629 5.551524 2020.286133" rpy="-0.496536 1.487066 8.674495" a="81.3255"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5362.635254 6.236167 2014.477295" rpy="-0.905490 0.950884 100.876213" a="-10.8762"/>
-    <group name="StaticObj_Misc_Pallet" pos="5317.833984 5.809362 2083.505371" rpy="-0.000000 0.000000 10.235557" a="79.7644"/>
     <group name="StaticObj_Wall_IndFnc2_Corner" pos="5362.193848 6.430571 2027.985352" rpy="-0.745461 0.161518 -77.763153" a="167.763"/>
     <group name="StaticObj_Wall_IndFnc2_3_D_nolc" pos="5358.587891 6.359132 1994.145386" rpy="-2.410286 -0.140301 105.101555" a="-15.1016"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5359.875977 6.255413 1999.881592" rpy="0.662402 1.124256 99.944237" a="-9.94424"/>
-    <group name="StaticObj_Misc_Gunrack" pos="5352.056641 6.307473 2054.771973" rpy="0.000000 0.000000 85.257591" a="4.74241"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5359.448242 6.257021 1997.105713" rpy="-1.636352 -0.488315 99.944229" a="-9.94423"/>
     <group name="StaticObj_Wall_IndFnc2_Pole_nolc" pos="5362.398438 6.451652 2029.566284" rpy="-0.710357 0.271790 -69.012695" a="159.013"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5361.382813 6.434910 2020.701172" rpy="-0.761920 0.054682 -85.894661" a="175.895"/>
-    <group name="StaticObj_Furniture_phonebox" pos="5354.941406 5.807426 2061.190186" rpy="-0.000000 0.000000 14.519442" a="75.4806"/>
     <group name="StaticObj_Mil_HBarrier_4m" pos="5265.339355 6.559349 2057.165771" rpy="-0.000000 0.000000 2.550712" a="87.4493"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5359.482422 5.664842 2025.916504" rpy="-1.528475 -0.760914 -89.911736" a="179.912"/>
     <group name="Land_Wall_FenForest_Gate" pos="5361.838379 6.471268 2026.013916" rpy="1.563782 0.684228 92.918541" a="-2.91854"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5362.917969 5.899603 1958.529663" rpy="8.940742 7.740046 0.000000" a="90"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5356.295898 1.648412 1992.620483" rpy="2.773039 -5.186438 6.494399" a="83.5056"/>
     <group name="StaticObj_Mil_HBarrier_1m" pos="5264.351074 6.607594 2058.351318" rpy="-0.000000 0.000000 91.068619" a="-1.06862"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5358.068359 2.411157 2000.437134" rpy="-1.138975 0.637225 8.674495" a="81.3255"/>
-    <group name="StaticObj_Furniture_canister_DZ" pos="5317.460938 6.263340 2083.921387" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5359.223145 3.256093 2005.581177" rpy="-1.300243 -0.419647 8.674496" a="81.3255"/>
     <group name="StaticObj_Decal_dirt_damage_long2" pos="5360.636230 4.565691 2012.993042" rpy="-0.524542 1.624229 8.674497" a="81.3255"/>
     <group name="StaticObj_Decal_damage_long2_DE" pos="5343.627441 5.732011 2073.913086" rpy="-0.000000 0.000000 105.315033" a="-15.315"/>
-    <group name="StaticObj_Slum_Roof2" pos="5373.274414 4.968769 2084.236816" rpy="-0.000000 0.000000 100.135002" a="-10.135"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5358.207031 6.486784 1991.202393" rpy="-5.498281 -2.153448 98.629601" a="-8.6296"/>
     <group name="StaticObj_Wall_IndFnc_Pole" pos="5358.091797 6.621996 1989.658813" rpy="-5.554268 -2.014606 104.502937" a="-14.5029"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5360.962402 6.251843 2005.714478" rpy="-0.905961 0.951604 100.876213" a="-10.8762"/>
-    <group name="StaticObj_Misc_Barbedwire" pos="5363.904785 6.753208 2043.619019" rpy="-0.000000 0.000000 17.051516" a="72.9485"/>
     <group name="StaticObj_Decal_damage_long3_DE" pos="5313.344727 5.712993 2081.355225" rpy="0.836143 16.097698 -75.088387" a="165.088"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5364.075195 6.343400 2023.220337" rpy="1.540573 -0.063010 100.876213" a="-10.8762"/>
     <group name="StaticObj_Transmitter_Box" pos="5364.957520 7.615270 2027.618652" rpy="-0.000000 0.000000 13.410756" a="76.5892"/>
-    <group name="StaticObj_Garbage_Pile3" pos="5356.023438 5.980350 2062.859375" rpy="0.152788 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5360.000977 6.210281 2011.917114" rpy="-1.661415 -0.394519 -76.797691" a="166.798"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5358.488281 6.237845 2003.337769" rpy="0.427773 -1.296886 -81.680489" a="171.68"/>
     <group name="StaticObj_Wall_IndFnc2_3" pos="5358.860840 6.215818 2006.143921" rpy="0.947607 -0.910361 -81.680489" a="171.68"/>
-    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5354.430176 6.975343 1968.096558" rpy="4.117474 -1.065470 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndFnc2_9" pos="5356.889648 6.356568 1997.584106" rpy="1.578155 0.652186 -73.162903" a="163.163"/>
     <group name="Land_Mil_Barracks2" pos="5277.324219 7.368368 2062.544922" rpy="-0.000000 0.000000 2.861374" a="87.1386"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5306.300781 6.507206 2089.000977" rpy="-0.019294 -0.073920 14.628446" a="75.3716"/>
-    <group name="Land_Wreck_V3S" pos="5361.189941 7.106440 2062.550049" rpy="0.034222 -2.551087 -77.056892" a="167.057"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5309.307617 6.430653 2088.237549" rpy="-0.014903 -0.074928 11.249296" a="78.7507"/>
     <group name="Land_Mil_Tower_Small" pos="5296.397461 9.786808 2064.304932" rpy="-0.000000 0.000000 112.258614" a="-22.2586"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5318.525391 6.394103 2085.956787" rpy="-0.014903 -0.074928 10.900476" a="79.0995"/>
@@ -11941,79 +11814,242 @@
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5321.503418 6.284957 2097.403809" rpy="-0.000000 0.000000 -75.201561" a="165.202"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5322.286133 6.426303 2100.347168" rpy="-0.000000 0.000000 105.412003" a="-15.412"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5306.806152 6.554648 2104.334473" rpy="-0.000000 0.000000 103.580719" a="-13.5807"/>
-    <group name="Land_Container_1Mo" pos="5319.430664 7.029059 2099.257813" rpy="-3.700076 3.273678 21.755077" a="68.2449"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5306.117676 6.313452 2101.367432" rpy="-0.000000 0.000000 -77.032845" a="167.033"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5304.839355 6.361304 2095.597900" rpy="-3.798827 -1.035080 -80.268005" a="170.268"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5304.178223 6.486544 2092.618408" rpy="0.063419 -0.042596 -76.888832" a="166.889"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5401.068848 6.269567 2072.464844" rpy="5.999222 -0.433930 -87.297935" a="177.298"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5305.454102 6.479441 2098.507324" rpy="-0.000000 0.000000 103.580719" a="-13.5807"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5308.110840 6.963330 2035.247681" rpy="-1.587481 -0.410356 103.259949" a="-13.2599"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5306.838379 7.042310 2029.614136" rpy="-1.242088 0.057271 103.259949" a="-13.2599"/>
-    <group name="StaticObj_Garbage_Pile6" pos="5370.296875 3.994263 2084.171875" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5325.286133 6.589820 2042.548584" rpy="-0.000000 -0.000000 -169.296356" a="-100.704"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5319.609375 6.651181 2043.575439" rpy="-0.547819 0.803079 -169.296356" a="-100.704"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5333.067383 6.590722 2027.657471" rpy="0.902985 2.134834 -84.330246" a="174.33"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5401.543457 5.635766 2081.409424" rpy="0.298571 -1.771395 -87.297935" a="177.298"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5333.566895 6.629315 2033.395508" rpy="-0.000000 0.000000 -84.330261" a="174.33"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5316.583008 6.995466 2019.669922" rpy="-0.094177 -0.987141 5.445266" a="84.5547"/>
     <group name="StaticObj_Mil_HBarrier_6m" pos="5322.327148 6.980020 2019.185913" rpy="0.336746 -0.492515 5.445230" a="84.5548"/>
-    <group name="StaticObj_Garbage_Pile5" pos="5317.870117 5.701941 2091.043457" rpy="0.061096 0.045866 -126.896301" a="-143.104"/>
     <group name="Land_Mil_Tent_Big1_1" pos="5281.891113 5.640543 2076.329834" rpy="1.470321 -0.286780 -78.954216" a="168.954"/>
     <group name="StaticObj_Misc_RoadBarrier" pos="5293.798340 6.124723 2080.134766" rpy="-0.000000 0.000000 -73.143654" a="163.144"/>
     <group name="StaticObj_Roads_Partpath_dirt_10" pos="5290.489258 5.600000 2077.535156" rpy="-0.000000 0.000000 9.618804" a="80.3812"/>
-    <group name="StaticObj_Wall_IndFnc2_9" pos="5380.442383 11.748390 2124.059570" rpy="-17.291697 -3.179690 -77.915497" a="167.915"/>
     <group name="StaticObj_Roads_Partpath_dirt_10" pos="5293.323730 5.650617 2073.703857" rpy="0.163873 -0.746026 -12.387858" a="102.388"/>
     <group name="StaticObj_Roads_Partpath_dirt_10" pos="5290.868164 5.642076 2074.343262" rpy="0.143701 -0.750171 -10.843149" a="100.843"/>
     <group name="StaticObj_Wreck_HMMWV_DE" pos="5297.370605 6.545166 2074.651367" rpy="-0.720307 0.254356 109.450325" a="-19.4503"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.028809 5.626786 2090.750000" rpy="-3.851871 -2.332838 -87.297935" a="177.298"/>
     <group name="Land_Village_store" pos="5310.491699 8.718417 2069.473145" rpy="0.568790 2.139537 -165.122787" a="-104.877"/>
     <group name="StaticObj_Wall_VilVar1_6" pos="5317.327637 5.717656 2072.542480" rpy="-0.000000 0.000000 -165.864029" a="-104.136"/>
     <group name="StaticObj_Wall_VilVar1_Pole" pos="5314.315430 5.709998 2073.220459" rpy="-0.000000 0.000000 17.446222" a="72.5538"/>
-    <group name="StaticObj_Platform2_Stairs_30" pos="5366.654785 3.100980 2082.996582" rpy="-0.000000 0.000000 101.698349" a="-11.6983"/>
     <group name="StaticObj_Wall_VilVar1_6" pos="5319.530273 5.745172 2068.745850" rpy="-0.000000 0.000000 -78.302986" a="168.303"/>
     <group name="StaticObj_Misc_Bench1" pos="5313.926758 6.191373 2069.703125" rpy="-2.182799 0.372367 99.685776" a="-9.68578"/>
     <group name="StaticObj_Misc_WoodTable_Outdoor" pos="5317.242676 6.213100 2069.605469" rpy="-0.000000 -2.213781 0.000000" a="90"/>
-    <group name="StaticObj_Garbage_GroundSq_5m" pos="5314.437500 5.692263 2092.645020" rpy="-0.000000 -3.051434 0.000000" a="90"/>
     <group name="StaticObj_Misc_Sunshade" pos="5317.153809 7.174646 2069.559326" rpy="-0.000000 0.000000 31.625462" a="58.3745"/>
     <group name="StaticObj_Mil_CamoNet_Tent2" pos="5281.875488 8.413158 2075.891113" rpy="-0.000000 0.000000 -77.512489" a="167.512"/>
     <group name="StaticObj_Wreck_BMP2" pos="5292.124512 6.586527 2070.589844" rpy="1.709981 -2.153675 -4.730810" a="94.7308"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.941406 6.603426 2021.665405" rpy="-0.686753 0.032410 -87.297935" a="177.298"/>
     <group name="StaticObj_Furniture_yellow_star" pos="5284.595215 8.989679 2062.176270" rpy="-0.000000 0.000000 -86.450310" a="176.45"/>
     <group name="StaticObj_Furniture_dirtpile_small_house" pos="5286.060059 6.000000 2060.740967" rpy="0.000000 0.000000 -80.302444" a="170.302"/>
-    <group name="Land_Wall_Gate_FenR" pos="5370.770508 6.026132 2082.093506" rpy="-0.000000 0.000000 -77.679123" a="167.679"/>
     <group name="StaticObj_Misc_TirePile" pos="5284.902832 10.156221 2067.725098" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Garbage_Container_Plastic" pos="5274.532715 6.841518 2066.943848" rpy="-0.000000 0.000000 -87.511360" a="177.511"/>
     <group name="StaticObj_Decal_damage_long2_DE" pos="5367.023926 5.713651 2067.610107" rpy="-0.000000 0.000000 -76.859291" a="166.859"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5397.427734 6.719946 2030.736938" rpy="-0.763048 0.036010 -87.297935" a="177.298"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5314.291016 6.552330 2105.331543" rpy="-0.000000 0.000000 14.551905" a="75.4481"/>
     <group name="StaticObj_Wall_IndCnc3_1_4" pos="5320.092285 6.477123 2103.881104" rpy="-0.000000 0.000000 14.551905" a="75.4481"/>
-    <group name="StaticObj_Garbage_Ground_6m_NoLC" pos="5308.802734 5.616367 2093.629639" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndFnc2_Pole_nolc" pos="5381.075195 13.024666 2128.177246" rpy="-12.168574 4.230567 -74.493896" a="164.494"/>
     <group name="StaticObj_Decal_damage_long1_DE" pos="5380.035645 5.766767 2065.240723" rpy="-0.000000 0.000000 -80.739639" a="170.74"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5317.245117 6.311133 2104.592773" rpy="-0.000000 0.000000 -166.061676" a="-103.938"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5397.915527 6.757831 2040.125122" rpy="-0.007203 -0.152618 -87.297935" a="177.298"/>
     <group name="StaticObj_Decal_dirt_damage_long3" pos="5392.313477 5.731260 2058.187988" rpy="-0.305574 -0.076391 0.000000" a="90"/>
     <group name="StaticObj_Roadblock_Wood_Long_DE" pos="5394.333008 6.399502 2059.814453" rpy="-0.343284 0.511337 63.250931" a="26.7491"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5395.628418 6.416302 1993.520508" rpy="-0.057610 -1.220401 -87.297935" a="177.298"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5381.921875 2.847707 1950.581543" rpy="0.151552 7.215196 0.000000" a="90"/>
     <group name="Land_Wreck_Ikarus" pos="5415.732422 7.513315 2059.140381" rpy="0.158018 1.221364 98.444542" a="-8.44454"/>
     <group name="StaticObj_Wall_IndCnc3_Pole" pos="5322.992188 6.358986 2103.216309" rpy="-3.798827 -1.034273 -169.296814" a="-100.703"/>
-    <group name="StaticObj_Wall_Fen1_5" pos="5371.580566 5.881815 2085.429443" rpy="-0.000000 0.000000 103.218964" a="-13.219"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5381.366211 2.652106 1942.364014" rpy="-0.305568 -0.381949 0.000000" a="90"/>
     <group name="Land_Wreck_Lada_Green" pos="5404.241211 6.334724 2069.715332" rpy="-2.272148 -0.327862 77.970604" a="12.0294"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5377.098145 2.703896 1939.319824" rpy="-1.069053 -1.450226 0.000000" a="90"/>
-    <group name="StaticObj_Garbage_GroundSq_5m" pos="5317.990723 5.706420 2099.175537" rpy="-2.824304 -0.152541 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndCnc3_End" pos="5308.784180 6.471631 2106.697754" rpy="-0.000000 0.000000 14.148823" a="75.8512"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5381.268066 2.311330 1932.490112" rpy="0.750928 10.331317 0.000000" a="90"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.123535 6.506018 2002.588501" rpy="-0.406735 -0.516101 -87.297935" a="177.298"/>
     <group name="StaticObj_Wreck_BMP1" pos="5391.966797 6.622479 2071.257568" rpy="4.821181 -4.586744 -29.002153" a="119.002"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5390.044922 2.374972 1933.125488" rpy="0.376524 9.499771 0.000000" a="90"/>
     <group name="StaticObj_Wall_IndFnc2_Pole_nolc" pos="5381.804199 13.933769 2132.423828" rpy="-10.784667 5.106718 -69.012695" a="159.013"/>
-    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.618164 6.556402 2011.983154" rpy="-0.406748 -0.516119 -87.297935" a="177.298"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5396.303223 2.801856 1938.184814" rpy="0.915008 3.424823 0.000000" a="90"/>
     <group name="StaticObj_Decal_damage_small1_DE" pos="5393.427246 6.144660 2068.449951" rpy="-0.000000 0.000000 0.000000" a="90"/>
     <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5390.813965 3.053209 1944.191772" rpy="-9.902655 7.071887 0.000000" a="90"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5386.139648 3.189622 1952.727783" rpy="-9.950677 4.463326 0.000000" a="90"/>
+    <group name="StaticObj_Decal_damage_small1_DE" pos="5390.598145 5.775656 2068.051514" rpy="-0.000000 0.000000 107.329323" a="-17.3293"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5377.726563 3.502199 1955.607300" rpy="0.151552 7.215196 0.000000" a="90"/>
+    <group name="StaticObj_Decal_dirt_rocks2" pos="5402.972656 6.491891 2069.209717" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="StaticObj_Roads_Partpath_dirt_10" pos="5311.468750 5.719437 2091.412354" rpy="-0.010634 -0.044031 8.000951" a="81.999"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5371.826660 2.563056 1948.181885" rpy="-1.832473 1.144677 0.000000" a="90"/>
+    <group name="StaticObj_Roadblock_Bags_EndR" pos="5382.392090 13.877049 2132.892578" rpy="3.357501 9.544185 0.348816" a="89.6512"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5370.875977 2.552731 1938.716675" rpy="-2.061692 -0.457941 0.000000" a="90"/>
+    <group name="StaticObj_Decal_oilstain1" pos="5420.193359 6.203613 2058.529053" rpy="-0.000000 0.000000 55.818199" a="34.1818"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5368.690918 2.552454 1935.760986" rpy="-0.229172 0.534708 0.000000" a="90"/>
+    <group name="StaticObj_Decal_damage_medium4" pos="5410.993164 6.257751 2058.787354" rpy="-0.000000 0.000000 174.741562" a="-84.7416"/>
+    <group name="Land_Mil_Guardhouse2" pos="5368.958008 7.083310 2060.375488" rpy="-0.000000 0.000000 99.685791" a="-9.68579"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5409.127930 2.997630 1936.096436" rpy="-5.103069 1.518739 0.000000" a="90"/>
+    <group name="StaticObj_Roadblock_Bags_EndL" pos="5384.800781 13.438426 2130.890869" rpy="-8.976409 4.681015 -81.292610" a="171.293"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5411.885254 3.754863 1941.128418" rpy="-11.701509 7.997764 0.000000" a="90"/>
+    <group name="Land_Mil_Guardhouse2" pos="5371.818359 7.110767 2074.198242" rpy="-0.000000 0.000000 -78.047211" a="168.047"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5421.381348 2.977232 1929.452393" rpy="-1.515921 6.993461 0.000000" a="90"/>
+    <group name="Land_Mil_ControlTower" pos="5374.704590 12.172384 2090.120361" rpy="-0.431772 0.877625 -77.533386" a="167.533"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5412.719238 2.656269 1929.694458" rpy="-5.068700 6.742167 0.000000" a="90"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5375.066406 5.914551 2085.738281" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5436.858398 2.496123 1920.458618" rpy="-3.472018 8.276776 0.000000" a="90"/>
+    <group name="StaticObj_Pier_Concrete1" pos="5372.936523 0.741775 2084.453369" rpy="-0.000000 0.000000 11.254299" a="78.7457"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5373.256836 2.570188 1933.362671" rpy="10.935272 2.010314 90.000000" a="0"/>
+    <group name="StaticObj_Wall_Wood5_4_End" pos="5376.695313 5.878466 2079.628174" rpy="-0.000000 0.000000 9.618806" a="80.3812"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5375.586914 2.849449 1946.253174" rpy="1.145178 1.831101 90.000000" a="0"/>
+    <group name="StaticObj_Wall_IndFnc2_3" pos="5374.791016 5.387239 2095.597656" rpy="-4.370275 0.688647 -79.051399" a="169.051"/>
+    <group name="Land_Wall_Gate_Tin6_1" pos="5310.883301 6.455523 2087.850098" rpy="-0.000000 0.000000 12.831611" a="77.1684"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5400.829590 2.766021 1934.808838" rpy="7.964514 2.033538 90.000000" a="0"/>
+    <group name="StaticObj_Wall_Wood5_4_End" pos="5376.752930 6.675711 2079.617676" rpy="-0.000000 0.000000 9.618806" a="80.3812"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5383.930176 2.908653 1936.610474" rpy="0.358154 -0.333145 -85.730652" a="175.731"/>
+    <group name="StaticObj_Furniture_canister_DZ" pos="5307.401855 7.436424 2087.191650" rpy="1.000000 5.900000 0.000000" a="90"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5374.272461 5.935547 2081.984619" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
+    <group name="StaticObj_Furniture_canister_DZ" pos="5308.019043 7.211239 2086.573486" rpy="-90.000000 6.900000 -0.000000" a="90"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5416.693359 3.322055 1931.524902" rpy="-6.928374 0.684388 -73.634277" a="163.634"/>
+    <group name="StaticObj_Shed_Open_Big_Complete" pos="5370.068848 9.245137 2067.316650" rpy="-0.000000 0.000000 -79.983170" a="169.983"/>
+    <group name="StaticObj_Roadblock_Pillbox" pos="5371.424805 3.028980 1942.832520" rpy="-0.964061 0.599891 12.242111" a="77.7579"/>
+    <group name="StaticObj_Wall_IndFnc2_9" pos="5375.864258 6.062890 2101.448486" rpy="-5.120933 0.798619 -79.034584" a="169.035"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5369.361328 6.587822 2052.280762" rpy="-0.000000 0.000000 -128.979431" a="-141.021"/>
+    <group name="Land_Mil_Tower_Small" pos="5272.780273 9.370916 2077.749268" rpy="-0.000000 0.000000 -46.199406" a="136.199"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5368.788086 6.631085 2044.337158" rpy="-0.000000 0.000000 -56.109707" a="146.11"/>
+    <group name="StaticObj_Garbage_Container2_Open" pos="5370.155273 5.307803 2084.132568" rpy="4.572200 -1.474026 -75.347313" a="165.347"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5364.420898 6.827274 1970.478638" rpy="-0.611112 -0.458305 0.000000" a="90"/>
+    <group name="Land_Wreck_offroad02_aban2" pos="5307.362305 7.340272 2092.302734" rpy="-0.000000 0.000000 -166.033890" a="-103.966"/>
+    <group name="StaticObj_Wall_IndFnc2_Corner" pos="5381.564453 13.436229 2130.942627" rpy="-11.521626 3.069529 -77.763168" a="167.763"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5366.462402 6.653915 2036.973267" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
+    <group name="StaticObj_Mil_HBarrier_6m" pos="5292.790039 6.629315 2057.187744" rpy="0.000000 0.000000 138.801819" a="-48.8018"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5355.463867 6.994525 1958.048584" rpy="9.535627 -0.599822 0.000000" a="90"/>
+    <group name="Land_Wreck_offroad02_aban2" pos="5306.021973 6.684139 2092.757080" rpy="-89.999985 -2.880811 -168.728867" a="-101.271"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5367.256348 6.632919 2040.726929" rpy="-0.000000 0.000000 -77.824875" a="167.825"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5359.513672 7.062320 1967.612305" rpy="-1.511660 0.027793 136.053665" a="-46.0537"/>
+    <group name="StaticObj_Mil_HBarrier_6m" pos="5281.363281 6.629315 2055.854736" rpy="-0.000000 -0.000000 -174.992737" a="-95.0073"/>
+    <group name="Land_Mil_ControlTower" pos="5364.503906 13.658787 2031.501831" rpy="-0.431772 0.877583 -77.533386" a="167.533"/>
+    <group name="StaticObj_Misc_GContainer_Big" pos="5315.838379 6.249114 2089.318359" rpy="-0.008903 -0.075876 31.043703" a="58.9563"/>
+    <group name="StaticObj_Wall_IndFnc2_9" pos="5377.702148 7.485534 2110.212891" rpy="-11.335360 -1.752630 -77.741478" a="167.741"/>
+    <group name="StaticObj_Garbage_GroundSq_5m_NoLC" pos="5367.826660 4.538393 2085.473877" rpy="0.152788 0.381963 0.000000" a="90"/>
+    <group name="StaticObj_Mil_HBarrier_6m" pos="5269.944336 6.629315 2056.773193" rpy="-0.000000 -0.000000 -174.992722" a="-95.0073"/>
+    <group name="Land_Wreck_hb02_aban2_blue" pos="5425.672363 6.949255 2058.872314" rpy="0.006300 0.076132 94.730644" a="-4.73064"/>
+    <group name="StaticObj_Garbage_Container2_Open" pos="5306.365723 6.383185 2095.941406" rpy="-0.000000 0.000000 77.679146" a="12.3209"/>
+    <group name="StaticObj_Mil_Artilery_Nest" pos="5358.766113 5.820552 1982.064453" rpy="-0.000000 0.000000 82.634277" a="7.36572"/>
+    <group name="StaticObj_Mil_HBarrier_6m" pos="5264.496094 6.629315 2067.382080" rpy="0.000000 0.000000 -88.492805" a="178.493"/>
+    <group name="StaticObj_Wall_IndFnc2_9" pos="5379.375488 9.841814 2118.564453" rpy="-21.188789 -2.846592 -77.915520" a="167.916"/>
+    <group name="Land_Mil_GuardTower" pos="5346.854492 13.180639 1960.882324" rpy="1.587698 2.300288 -72.869728" a="162.87"/>
+    <group name="Land_Container_1Mo" pos="5319.430664 7.029059 2099.257813" rpy="-3.700076 3.273678 21.755077" a="68.2449"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5401.068848 6.269567 2072.464844" rpy="5.999222 -0.433930 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_Pile6" pos="5370.296875 3.994263 2084.171875" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5401.543457 5.635766 2081.409424" rpy="0.298571 -1.771395 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_Pile5" pos="5317.870117 5.701941 2091.043457" rpy="0.061096 0.045866 -126.896301" a="-143.104"/>
+    <group name="StaticObj_Wall_IndFnc2_9" pos="5380.442383 11.748390 2124.059570" rpy="-17.291697 -3.179690 -77.915497" a="167.915"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.028809 5.626786 2090.750000" rpy="-3.851871 -2.332838 -87.297935" a="177.298"/>
+    <group name="StaticObj_Platform2_Stairs_30" pos="5366.654785 3.100980 2082.996582" rpy="-0.000000 0.000000 101.698349" a="-11.6983"/>
+    <group name="StaticObj_Garbage_GroundSq_5m" pos="5314.437500 5.692263 2092.645020" rpy="-0.000000 -3.051434 0.000000" a="90"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.941406 6.603426 2021.665405" rpy="-0.686753 0.032410 -87.297935" a="177.298"/>
+    <group name="Land_Wall_Gate_FenR" pos="5370.770508 6.026132 2082.093506" rpy="-0.000000 0.000000 -77.679123" a="167.679"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5397.427734 6.719946 2030.736938" rpy="-0.763048 0.036010 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_Ground_6m_NoLC" pos="5308.802734 5.616367 2093.629639" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5397.915527 6.757831 2040.125122" rpy="-0.007203 -0.152618 -87.297935" a="177.298"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5395.628418 6.416302 1993.520508" rpy="-0.057610 -1.220401 -87.297935" a="177.298"/>
+    <group name="StaticObj_Wall_Fen1_5" pos="5371.580566 5.881815 2085.429443" rpy="-0.000000 0.000000 103.218964" a="-13.219"/>
+    <group name="StaticObj_Garbage_GroundSq_5m" pos="5317.990723 5.706420 2099.175537" rpy="-2.824304 -0.152541 0.000000" a="90"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.123535 6.506018 2002.588501" rpy="-0.406735 -0.516101 -87.297935" a="177.298"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5396.618164 6.556402 2011.983154" rpy="-0.406748 -0.516119 -87.297935" a="177.298"/>
     <group name="StaticObj_Misc_DragonTeeth_Big" pos="5393.899902 6.699849 1965.984863" rpy="1.985061 -3.216713 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_Bin2" pos="5313.039063 6.221597 2086.868164" rpy="-0.000000 0.000000 12.012334" a="77.9877"/>
+    <group name="StaticObj_Wall_FenG_Pole" pos="5372.232422 5.174287 2088.144287" rpy="-0.000000 0.000000 -78.854103" a="168.854"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5394.427734 6.789690 1975.071655" rpy="3.552840 -0.777603 -87.297935" a="177.298"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5394.922363 6.323161 1984.465820" rpy="3.230411 -1.143996 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_GroundSq_5m" pos="5313.454590 5.708083 2086.427734" rpy="-0.076396 -0.000105 89.921242" a="0.0787582"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5398.772461 6.666089 2053.627197" rpy="1.039340 -0.660662 -87.297935" a="177.298"/>
+    <group name="StaticObj_Furniture_shelfs_small" pos="5372.998047 5.363895 2087.961182" rpy="-0.000000 0.000000 -75.845551" a="165.846"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.605469 7.223964 2099.714600" rpy="-10.781254 -2.924004 -87.297935" a="177.298"/>
+    <group name="StaticObj_Garbage_Pile8" pos="5313.501465 6.217781 2088.371582" rpy="0.029507 0.070468 -157.279663" a="-112.72"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.832520 9.544133 2108.039063" rpy="-13.409802 -5.368222 -87.297935" a="177.298"/>
+    <group name="StaticObj_Misc_DragonTeeth_Big" pos="5402.937012 11.650757 2117.144775" rpy="-9.384785 -7.953038 -87.297935" a="177.298"/>
+    <group name="StaticObj_Furniture_locker_closed_v1" pos="5373.689453 5.363895 2087.765625" rpy="-0.000000 0.000000 11.227495" a="78.7725"/>
+    <group name="StaticObj_Garbage_Pile7" pos="5317.344238 6.191846 2099.540283" rpy="1.081955 2.694475 114.866219" a="-24.8662"/>
+    <group name="Land_Boat_Small7" pos="5365.822266 1.990252 1935.747070" rpy="-0.229172 0.534708 0.000000" a="90"/>
+    <group name="StaticObj_Misc_Barbedwire" pos="5409.239746 17.677263 2142.426270" rpy="0.120642 21.092690 65.582748" a="24.4173"/>
+    <group name="StaticObj_Misc_Barbedwire" pos="5399.702637 16.737316 2152.308838" rpy="3.257728 8.418071 65.582741" a="24.4173"/>
+    <group name="StaticObj_Garbage_Pile3" pos="5307.160645 5.945807 2094.626465" rpy="3.052880 -3.045676 0.000000" a="90"/>
+    <group name="StaticObj_Furniture_locker_open_v2" pos="5374.083984 5.363895 2087.690918" rpy="-0.000000 0.000000 11.663515" a="78.3365"/>
+    <group name="StaticObj_Misc_Barbedwire" pos="5390.664551 16.441156 2168.923584" rpy="-1.765330 3.810391 70.392136" a="19.6079"/>
+    <group name="StaticObj_ShellCrater1" pos="5393.856934 4.601497 2083.433350" rpy="0.381118 -3.802688 0.000000" a="90"/>
+    <group name="StaticObj_Garbage_Pile1" pos="5308.834961 5.622003 2104.750977" rpy="-0.763901 -1.603464 0.000000" a="90"/>
+    <group name="StaticObj_ShellCrater2_Debris" pos="5395.000977 4.730794 2084.905029" rpy="-3.046134 -0.379893 0.000000" a="90"/>
+    <group name="StaticObj_Furniture_locker_closed_v2" pos="5374.474609 5.363895 2087.590332" rpy="-0.000000 0.000000 11.271098" a="78.7289"/>
+    <group name="StaticObj_ShellCrater2_Large" pos="5383.579102 4.904794 2048.412109" rpy="-0.000000 -1.755144 0.000000" a="90"/>
+    <group name="Land_Wreck_sed01_aban1_police" pos="5310.262695 6.070249 2099.670898" rpy="2.522697 -1.710662 -55.818207" a="145.818"/>
+    <group name="StaticObj_Furniture_flag_chernarus_pole" pos="5375.873047 8.041225 2076.539795" rpy="-0.000000 0.000000 10.159248" a="79.8408"/>
+    <group name="StaticObj_Wreck_Train_742_Blue" pos="5392.755859 8.853625 2047.570923" rpy="0.006846 0.152631 89.197548" a="0.802452"/>
+    <group name="StaticObj_Furniture_flag_chernarus_wall" pos="5374.863770 7.102262 2084.785156" rpy="-0.000000 0.000000 102.185699" a="-12.1857"/>
+    <group name="Land_wreck_truck01_aban1_blue" pos="5305.504883 5.704006 2087.090576" rpy="0.006301 0.076136 94.730652" a="-4.73065"/>
+    <group name="StaticObj_Wreck_Train_Wagon_Flat" pos="5407.921875 7.014926 2047.495117" rpy="-0.000000 0.000000 91.661278" a="-1.66128"/>
+    <group name="Land_Wall_FenForest_Gate" pos="5381.249512 13.291962 2128.898682" rpy="13.141980 -1.617621 92.918541" a="-2.91854"/>
+    <group name="StaticObj_Mil_CamoNet_Tent2" pos="5352.369141 7.532556 2055.890625" rpy="-0.000000 0.000000 -87.443665" a="177.444"/>
+    <group name="StaticObj_BusStation_wall" pos="5374.295898 5.929955 2082.165283" rpy="-0.000000 0.000000 11.576305" a="78.4237"/>
+    <group name="StaticObj_ShellCrater1" pos="5417.596680 5.568392 2074.623047" rpy="-1.344786 3.909491 128.833679" a="-38.8337"/>
+    <group name="StaticObj_ShellCrater2_Debris" pos="5418.020020 5.863503 2072.816162" rpy="-1.344787 3.909490 128.833664" a="-38.8337"/>
+    <group name="StaticObj_Decal_Runway_HoldShort" pos="5310.454590 5.708344 2085.773926" rpy="3.718441 5.408270 -164.603882" a="-105.396"/>
+    <group name="StaticObj_Wreck_Mi8" pos="5317.989746 8.003738 2031.151978" rpy="0.274175 0.465335 -104.495178" a="-165.505"/>
+    <group name="StaticObj_Furniture_case_d" pos="5373.132813 5.363895 2085.024658" rpy="-0.000000 0.000000 13.080577" a="76.9194"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5366.904785 6.005338 2077.116455" rpy="-0.000000 0.000000 10.949524" a="79.0505"/>
+    <group name="Land_Container_1Bo" pos="5321.150879 6.940809 2087.281738" rpy="-0.045018 -0.537206 7.401189" a="82.5988"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5363.135742 6.026334 2077.829102" rpy="-0.000000 0.000000 10.949524" a="79.0505"/>
+    <group name="StaticObj_Furniture_case_d" pos="5372.950684 5.363895 2084.364746" rpy="-0.000000 0.000000 9.832237" a="80.1678"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5359.233887 6.033930 2078.550781" rpy="1.195558 -6.642535 10.949523" a="79.0505"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5355.710938 6.119139 2061.396973" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5359.419922 6.140134 2060.435791" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
+    <group name="StaticObj_Furniture_box_c" pos="5374.885254 5.691759 2086.372314" rpy="-0.000000 0.000000 93.526154" a="-3.52615"/>
+    <group name="StaticObj_Wall_MilCnc_4" pos="5363.271973 6.147730 2059.461182" rpy="-0.000000 0.000000 -165.272339" a="-104.728"/>
+    <group name="StaticObj_Roadblock_Pillbox" pos="5356.473633 6.927426 2055.391357" rpy="0.126634 -1.646434 29.293629" a="60.7064"/>
+    <group name="StaticObj_Misc_Pallets2" pos="5318.656738 6.130921 2085.022461" rpy="0.076136 0.006301 -94.730644" a="-175.269"/>
+    <group name="StaticObj_Roadblock_Bags_Long" pos="5352.956055 5.789921 2054.087158" rpy="0.733209 0.793147 -92.253075" a="-177.747"/>
+    <group name="StaticObj_Furniture_box_c" pos="5374.744629 5.619846 2087.054932" rpy="-0.000000 0.000000 -7.080737" a="97.0807"/>
+    <group name="StaticObj_Misc_Pallet" pos="5317.833984 5.809362 2083.505371" rpy="-0.000000 0.000000 10.235557" a="79.7644"/>
+    <group name="StaticObj_Misc_Gunrack" pos="5352.056641 6.307473 2054.771973" rpy="-0.698133 -0.824321 85.257576" a="4.74242"/>
+    <group name="StaticObj_Furniture_phonebox" pos="5354.941406 5.807426 2061.190186" rpy="-0.000000 0.000000 14.519442" a="75.4806"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5362.917969 5.899603 1958.529663" rpy="8.940742 7.740046 0.000000" a="90"/>
+    <group name="StaticObj_Furniture_canister_DZ" pos="5317.460938 6.263340 2083.921387" rpy="-0.000000 0.000000 0.000000" a="90"/>
+    <group name="StaticObj_Slum_Roof2" pos="5373.274414 4.968769 2084.236816" rpy="-0.000000 0.000000 100.135002" a="-10.135"/>
+    <group name="StaticObj_Misc_Barbedwire" pos="5363.904785 6.753208 2043.619019" rpy="-0.000000 0.000000 17.051516" a="72.9485"/>
+    <group name="StaticObj_Garbage_Pile3" pos="5356.023438 5.980350 2062.859375" rpy="0.152788 0.000000 0.000000" a="90"/>
+    <group name="StaticObj_Misc_Hedgehog_Concrete" pos="5354.430176 6.975343 1968.096558" rpy="4.117474 -1.065470 0.000000" a="90"/>
+    <group name="Land_Wreck_V3S" pos="5361.189941 7.106440 2062.550049" rpy="0.034222 -2.551087 -77.056892" a="167.057"/>
+    <group name="Land_Wreck_Uaz" pos="5337.538574 6.566939 2082.384033" rpy="0.241514 0.005499 -72.869736" a="162.87"/>
+    <group name="Land_Wreck_Lada_Red" pos="5341.710449 6.383619 2081.400879" rpy="0.094829 0.222184 -138.452484" a="-131.548"/>
+    <group name="Land_Wreck_Volha_Blue" pos="5345.346191 6.423302 2081.025146" rpy="-1.389309 1.657247 -177.825653" a="-92.1743"/>
+    <group name="Land_Wreck_hb02_aban2_black" pos="5347.968750 6.333613 2080.695557" rpy="-180.000000 30.000023 -89.665627" a="179.666"/>
+    <group name="StaticObj_Misc_TirePile_Group" pos="5348.898438 9.890882 2080.883057" rpy="0.916294 -1.603030 0.000000" a="90"/>
+    <group name="StaticObj_Garbage_GroundSq_5m_NoLC" pos="5347.589355 5.749414 2077.806885" rpy="-1.799274 -0.417422 106.681282" a="-16.6813"/>
+    <group name="StaticObj_Garbage_Pile3" pos="5343.056641 6.212140 2080.343506" rpy="0.076392 -0.391325 0.000000" a="90"/>
+    <group name="Land_House_1W04" pos="5332.838867 9.078749 2065.139648" rpy="-0.000000 0.000000 -76.381943" a="166.382"/>
+    <group name="StaticObj_Platform2_Stairs_30" pos="5332.602539 4.721024 2071.741211" rpy="-0.000000 0.000000 -166.161514" a="-103.838"/>
+    <group name="StaticObj_Garbage_Bin" pos="5329.912109 6.342557 2067.881836" rpy="-0.000000 0.000000 -171.953461" a="-98.0465"/>
+    <group name="StaticObj_Garbage_Ground_6m" pos="5329.495605 5.760578 2067.662598" rpy="1.349233 0.274484 -104.680191" a="-165.32"/>
+    <group name="StaticObj_Misc_WoodPile1" pos="5332.994629 5.961279 2067.239014" rpy="-0.000000 0.000000 13.429393" a="76.5706"/>
+    <group name="StaticObj_Wall_VilVar2_4_2" pos="5342.829102 6.142478 2066.302490" rpy="0.217696 0.263301 -76.981506" a="166.982"/>
+    <group name="StaticObj_Wall_VilVar2_4_2" pos="5341.364746 6.163568 2068.677246" rpy="-0.288534 0.182934 -166.581177" a="-103.419"/>
+    <group name="StaticObj_Wall_VilVar2_4_D" pos="5337.516113 6.107408 2069.675049" rpy="0.768239 -25.811792 -151.127808" a="-118.872"/>
+    <group name="StaticObj_Wall_VilVar2_4_2" pos="5332.830078 5.807220 2072.751953" rpy="179.999985 90.000000 -22.163931" a="112.164"/>
+    <group name="Land_Wreck_hb01_aban1_blue" pos="5335.576172 6.343066 2068.265381" rpy="-176.464951 23.550571 71.866982" a="18.133"/>
+    <group name="StaticObj_Rubble_DirtPile_Medium1" pos="5336.246094 5.843175 2068.778809" rpy="-0.000000 0.000000 56.802437" a="33.1976"/>
+    <group name="StaticObj_Forest_HumanSkeleton" pos="5335.600098 5.941565 2068.359375" rpy="-0.000000 0.000000 -26.880592" a="116.881"/>
+    <group name="StaticObj_Misc_Tire" pos="5334.236816 5.801322 2069.309326" rpy="-0.152788 -0.152788 0.000000" a="90"/>
+    <group name="StaticObj_Misc_Table_Camp" pos="5355.855957 6.241696 2056.873047" rpy="0.197799 -1.640327 26.816061" a="63.1839"/>
+    <group name="StaticObj_Rubble_Metal3" pos="5343.648926 5.630459 2064.990967" rpy="0.340418 -0.028884 -21.715179" a="111.715"/>
+    <group name="Land_Ruin_BusStop_Village2" pos="5326.824219 6.151461 2084.959229" rpy="-0.000000 0.000000 20.710918" a="69.2891"/>
+    <group name="Land_BusStop_Village2" pos="5261.111328 6.662580 2087.268066" rpy="-0.000000 0.000000 -168.310516" a="-101.689"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5386.061035 6.259933 1994.731201" rpy="1.077425 2.492040 80.630013" a="9.36999"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5389.266113 6.564022 2016.725952" rpy="0.369294 0.097559 80.629997" a="9.37"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5378.194824 6.479396 2018.495972" rpy="1.403038 0.370576 80.630013" a="9.36999"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5387.783203 6.742249 2031.124268" rpy="0.738558 0.195102 80.630005" a="9.37"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5373.600586 6.230505 1997.822876" rpy="1.224791 -0.150426 80.630020" a="9.36998"/>
+    <group name="StaticObj_Misc_Razorwire" pos="5378.739258 6.865267 1978.951904" rpy="-1.492103 -0.630985 80.630005" a="9.37"/>
+    <group name="StaticObj_Forest_HumanSkeleton" pos="5393.319824 6.012324 2031.065796" rpy="0.696447 -0.313858 -78.285599" a="168.286"/>
+    <group name="StaticObj_Forest_HumanSkeleton" pos="5383.337891 5.893478 2024.456421" rpy="-179.303543 -0.000005 -59.205532" a="149.206"/>
+    <group name="StaticObj_Wall_VilVar1_6" pos="5305.136719 5.993378 2057.034424" rpy="-0.000000 0.000000 15.200734" a="74.7993"/>
+    <group name="StaticObj_Wall_VilVar1_Pole" pos="5308.134766 5.985720 2056.300049" rpy="-0.000000 0.000000 -161.489014" a="-108.511"/>
+    <group name="StaticObj_Wall_VilVar1_6" pos="5303.004395 6.020894 2060.871338" rpy="-0.000000 0.000000 102.761765" a="-12.7618"/>
+    <group name="StaticObj_Garbage_Container2_Open" pos="5304.908691 6.602385 2062.075684" rpy="-125.138374 -87.101051 -93.404037" a="-176.596"/>
+    <group name="StaticObj_Garbage_Pile5" pos="5305.738770 5.613465 2061.108154" rpy="-0.000000 -10.657511 0.000000" a="90"/>
+    <group name="StaticObj_Garbage_Pile2" pos="5305.333984 6.373864 2061.534668" rpy="-180.000000 24.455620 140.409424" a="-50.4094"/>
+    <group name="Land_Container_1Mo" pos="5363.928711 6.268485 2079.515625" rpy="5.977793 0.316540 -81.298096" a="171.298"/>
+
 
     <group name="StaticObj_Misc_Gunrack" pos="5266.277832 9.165702 2224.147949" rpy="-0.000000 0.000000 -46.872070" a="136.872"/>
     <group name="StaticObj_Misc_Gunrack" pos="4908.131348 9.985946 2457.743408" rpy="-0.000000 0.000000 48.332752" a="41.6672"/>

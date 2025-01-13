@@ -95,10 +95,10 @@
     <category name="tools"/>
   </type>
   <type name="FieldShovel">
-    <nominal>140</nominal>
+    <nominal>60</nominal>
     <lifetime>3600</lifetime>
     <restock>0</restock>
-    <min>112</min>
+    <min>30</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

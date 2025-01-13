@@ -9,7 +9,6 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
-        <category name="gunrack_weapons"/>
     </categories>
     <tags>
         <tag name="floor"/>
