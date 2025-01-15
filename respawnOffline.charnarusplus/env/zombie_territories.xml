@@ -52,7 +52,8 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="6" x="5277.86" z="10017.9" r="50"/>
         <!-- CUSTOM SPAWNS
         CHECKPOINT BALOTA SPAWNS -->
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="5368.20" z="2069.84" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="4" dmax="6" x="5398.02" z="2057.92" r="20"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="2" dmax="4" x="5294.73" z="2064.23" r="10"/>
     </territory>
     <territory color="2615190015">
         <zone name="InfectedIndustrial" smin="0" smax="0" dmin="4" dmax="6" x="12584.2" z="13797.5" r="70"/>
