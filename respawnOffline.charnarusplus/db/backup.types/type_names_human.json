@@ -1,0 +1,7702 @@
+[
+  {
+    "type_name": "ACOGOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "ACOGOptic_6x",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK101",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK101_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK101_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK74",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK74_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK74_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK74_Hndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK74_WoodBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "AKM",
+    "human_name": ""
+  },
+  {
+    "type_name": "AKS74U",
+    "human_name": ""
+  },
+  {
+    "type_name": "AKS74U_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AKS74U_Bttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "AKS74U_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_Bayonet",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_FoldingBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_FoldingBttstck_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_FoldingBttstck_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_PlasticBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_PlasticBttstck_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_PlasticBttstck_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_PlasticHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_RailHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_RailHndgrd_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_RailHndgrd_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_Suppressor",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodBttstck_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodBttstck_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodHndgrd_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AK_WoodHndgrd_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "ASVAL",
+    "human_name": ""
+  },
+  {
+    "type_name": "AgaricusMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "AirborneMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "AlarmClock_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "AlarmClock_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AlarmClock_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "AliceBag_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AliceBag_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "AliceBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_00buck_10rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_12gaRubberSlug_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_12gaSlug_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_22_50Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_308WinTracer_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_308Win_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_357_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_380_35rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_45ACP_25rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_545x39Tracer_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_545x39_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_556x45Tracer_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_556x45_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_762x39Tracer_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_762x39_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_762x54Tracer_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_762x54_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_9x19_25rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_9x39AP_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "AmmoBox_9x39_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_12gaPellets",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_12gaRubberSlug",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_12gaSlug",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_22",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_308Win",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_308WinTracer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_357",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_380",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Chemgas",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Explosive",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Smoke_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Smoke_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Smoke_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_Smoke_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_45ACP",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_545x39",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_545x39Tracer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_556x45",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_556x45Tracer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_762x39",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_762x39Tracer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_762x54",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_762x54Tracer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_9x19",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_9x39",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_9x39AP",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_CupidsBolt",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_Flare",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_FlareBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_FlareGreen",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_FlareRed",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_HuntingBolt",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_ImprovisedBolt_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_ImprovisedBolt_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurusF_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurusF_Spotted",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurusF_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurus_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurus_Spotted",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_BosTaurus_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CanisLupus_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CanisLupus_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapraHircusF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapraHircus_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapraHircus_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapraHircus_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapreolusCapreolus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapreolusCapreolusF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CervusElaphus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CervusElaphusF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_GallusGallusDomesticus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_GallusGallusDomesticusF_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_GallusGallusDomesticusF_Spotted",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_GallusGallusDomesticusF_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_LepusEuropaeus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_OvisAries",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_OvisAriesF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_RangiferTarandus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_RangiferTarandusF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_RangiferTarandus_Xmas",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_SusDomesticus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_SusScrofa",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_UrsusArctos",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_VulpesVulpes",
+    "human_name": ""
+  },
+  {
+    "type_name": "AnniversaryBox",
+    "human_name": ""
+  },
+  {
+    "type_name": "Anniversary_FireworksLauncher",
+    "human_name": ""
+  },
+  {
+    "type_name": "AntiChemInjector",
+    "human_name": ""
+  },
+  {
+    "type_name": "AntiPestsSpray",
+    "human_name": ""
+  },
+  {
+    "type_name": "Apple",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_APA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Altis",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_BabyDeer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Bear",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Bohemia",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_BrainZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_CDF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_CHEL",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_CMC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Cannibals",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Chedaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Chernarus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Crook",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_DayZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_HunterZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Livonia",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_LivoniaArmy",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_LivoniaPolice",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_NAPA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_NSahrani",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Pirates",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_RSTA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Refuge",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Rex",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Rooster",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_SSahrani",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Snake",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_TEC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_UEC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Wolf",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Zagorky",
+    "human_name": ""
+  },
+  {
+    "type_name": "Armband_Zenit",
+    "human_name": ""
+  },
+  {
+    "type_name": "ArmyPouch_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ArmyPouch_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ArmyPouch_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "ArmyPouch_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AssaultBag_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AssaultBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AssaultBag_Ttsko",
+    "human_name": ""
+  },
+  {
+    "type_name": "AssaultBag_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "AthleticShoes_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "AthleticShoes_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "AthleticShoes_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "AthleticShoes_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "AthleticShoes_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Aug",
+    "human_name": ""
+  },
+  {
+    "type_name": "AugShort",
+    "human_name": ""
+  },
+  {
+    "type_name": "AuriculariaMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "AviatorGlasses",
+    "human_name": ""
+  },
+  {
+    "type_name": "B95",
+    "human_name": ""
+  },
+  {
+    "type_name": "BDUJacket",
+    "human_name": ""
+  },
+  {
+    "type_name": "BDUPants",
+    "human_name": ""
+  },
+  {
+    "type_name": "BUISOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bait",
+    "human_name": ""
+  },
+  {
+    "type_name": "BakedBeansCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "BakedBeansCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Balaclava3Holes_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "Balaclava3Holes_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Balaclava3Holes_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Balaclava3Holes_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Balaclava3Holes_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_BDU",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Blackskull",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Chain",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Pig",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "BalaclavaMask_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_BDU",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Desert",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_UN",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "BallisticHelmet_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "BandageDressing",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bandana_Blackpattern",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bandana_Camopattern",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bandana_Greenpattern",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bandana_Polkapattern",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bandana_Redpattern",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarbedBaseballBat",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarbedWire",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bark_Birch",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bark_Oak",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarrelHoles_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarrelHoles_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarrelHoles_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "BarrelHoles_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "Barrel_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Barrel_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Barrel_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Barrel_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseRadio",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballBat",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_CMMG_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_CMMG_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "BaseballCap_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Battery9V",
+    "human_name": ""
+  },
+  {
+    "type_name": "BatteryCharger",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "BeanieHat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "BearPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "BearSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "BearTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bear_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bear_Dark",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bear_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bear_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Binoculars",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bitterlings",
+    "human_name": ""
+  },
+  {
+    "type_name": "BloodBagEmpty",
+    "human_name": ""
+  },
+  {
+    "type_name": "BloodBagFull",
+    "human_name": ""
+  },
+  {
+    "type_name": "BloodBagIV",
+    "human_name": ""
+  },
+  {
+    "type_name": "BloodTestKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "Blouse_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Blouse_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Blouse_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "Blouse_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Blowtorch",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoarSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Boat_01_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Boat_01_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Boat_01_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "Boat_01_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoletusMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Maroon",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "BomberJacket_SkyBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bone",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoneBait",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoneHook",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoneKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "Bonfire",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_DPM",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Dubok",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Flecktran",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_NavyBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoonieHat_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "BoxCerealCrunchin",
+    "human_name": ""
+  },
+  {
+    "type_name": "BrassKnuckles_Dull",
+    "human_name": ""
+  },
+  {
+    "type_name": "BrassKnuckles_Shiny",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Beetcheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Blackcheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Browncheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Breeches_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "BrisketSpread",
+    "human_name": ""
+  },
+  {
+    "type_name": "BrisketSpread_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Broom",
+    "human_name": ""
+  },
+  {
+    "type_name": "Broom_Birch",
+    "human_name": ""
+  },
+  {
+    "type_name": "BudenovkaHat_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "BurlapSack",
+    "human_name": ""
+  },
+  {
+    "type_name": "BurlapSackCover",
+    "human_name": ""
+  },
+  {
+    "type_name": "BurlapStrip",
+    "human_name": ""
+  },
+  {
+    "type_name": "BushlatPoliceJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "CZ527",
+    "human_name": ""
+  },
+  {
+    "type_name": "CZ550",
+    "human_name": ""
+  },
+  {
+    "type_name": "CZ61",
+    "human_name": ""
+  },
+  {
+    "type_name": "CZ75",
+    "human_name": ""
+  },
+  {
+    "type_name": "CableReel",
+    "human_name": ""
+  },
+  {
+    "type_name": "Camonet",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanOpener",
+    "human_name": ""
+  },
+  {
+    "type_name": "Candycane_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Candycane_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Candycane_RedGreen",
+    "human_name": ""
+  },
+  {
+    "type_name": "Candycane_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "CaninaBerry",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanisterGasoline",
+    "human_name": ""
+  },
+  {
+    "type_name": "Canteen",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasBag_Medical",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasBag_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPantsMidi_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPantsMidi_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPantsMidi_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPantsMidi_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPantsMidi_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPants_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPants_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPants_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "CanvasPants_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "CarBattery",
+    "human_name": ""
+  },
+  {
+    "type_name": "CarRadiator",
+    "human_name": ""
+  },
+  {
+    "type_name": "CarTent",
+    "human_name": ""
+  },
+  {
+    "type_name": "CargoPants_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "CargoPants_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CargoPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "CargoPants_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "CargoPants_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Carp",
+    "human_name": ""
+  },
+  {
+    "type_name": "CarpFilletMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "CatFoodCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "CatFoodCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Cauldron",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chainmail",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chainmail_Coif",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chainmail_Leggings",
+    "human_name": ""
+  },
+  {
+    "type_name": "CharcoalTablets",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChelatingTablets",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chemlight_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chemlight_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chemlight_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chemlight_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chemlight_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChernarusMap",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChernarusMap_Open",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChernarusSportShirt",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChestHolster",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chestplate",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChickenBreastMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChickenFeather",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChildBag_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChildBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChildBag_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Chips",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChristmasHeadband_Antlers",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChristmasHeadband_Gingerbread",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChristmasHeadband_Trees",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChristmasTree",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackLeft_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_BackRight_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_CoDriver_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanDoors_Driver_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanHood_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanTrunk_WineRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanWheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivSedanWheel_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivilianBelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivilianSedan",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivilianSedan_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CivilianSedan_Wine",
+    "human_name": ""
+  },
+  {
+    "type_name": "ClaymoreMine",
+    "human_name": ""
+  },
+  {
+    "type_name": "Cleaver",
+    "human_name": ""
+  },
+  {
+    "type_name": "Colt1911",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatBoots_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatBoots_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatBoots_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatBoots_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatBoots_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombatKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombinationLock",
+    "human_name": ""
+  },
+  {
+    "type_name": "CombinationLock4",
+    "human_name": ""
+  },
+  {
+    "type_name": "Compass",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_Lime",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ConstructionHelmet_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ContaminatedArea_Dynamic",
+    "human_name": ""
+  },
+  {
+    "type_name": "CookingStand",
+    "human_name": ""
+  },
+  {
+    "type_name": "CourierBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowboyHat_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowboyHat_black",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowboyHat_darkBrown",
+    "human_name": ""
+  },
+  {
+    "type_name": "CowboyHat_green",
+    "human_name": ""
+  },
+  {
+    "type_name": "CoyoteBag_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "CoyoteBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "CoyoteBag_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "CrabCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "CrabCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crackers",
+    "human_name": ""
+  },
+  {
+    "type_name": "CraterellusMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "CrookedNose",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crossbow_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crossbow_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crossbow_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crossbow_Wood",
+    "human_name": ""
+  },
+  {
+    "type_name": "Crowbar",
+    "human_name": ""
+  },
+  {
+    "type_name": "CrudeMachete",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Lime",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "DarkMotoHelmet_YellowScarred",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadChicken_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadChicken_Spotted",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadChicken_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadFox",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadRabbit",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeadRooster",
+    "human_name": ""
+  },
+  {
+    "type_name": "Deagle",
+    "human_name": ""
+  },
+  {
+    "type_name": "Deagle_Gold",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeerPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "DeerSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "DenimJacket",
+    "human_name": ""
+  },
+  {
+    "type_name": "Derringer_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Derringer_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Derringer_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "DesignerGlasses",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Chernarus",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Mouthguard",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Police",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "DirtBikeHelmet_Visor",
+    "human_name": ""
+  },
+  {
+    "type_name": "DisinfectantAlcohol",
+    "human_name": ""
+  },
+  {
+    "type_name": "DisinfectantSpray",
+    "human_name": ""
+  },
+  {
+    "type_name": "DogFoodCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "DogFoodCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "DownJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "DownJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DownJacket_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "DownJacket_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "DressShoes_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "DressShoes_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "DressShoes_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "DressShoes_Sunburst",
+    "human_name": ""
+  },
+  {
+    "type_name": "DressShoes_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "DryBag_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "DrysackBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DrysackBag_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "DrysackBag_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "DuctTape",
+    "human_name": ""
+  },
+  {
+    "type_name": "DuffelBagSmall_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "DuffelBagSmall_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "DuffelBagSmall_Medical",
+    "human_name": ""
+  },
+  {
+    "type_name": "EasterEgg",
+    "human_name": ""
+  },
+  {
+    "type_name": "ElectronicRepairKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "Engraved1911",
+    "human_name": ""
+  },
+  {
+    "type_name": "Epinephrine",
+    "human_name": ""
+  },
+  {
+    "type_name": "EpoxyPutty",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Christmas",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Dead",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_NewYears",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Valentines",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyeMask_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "EyePatch_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "FAL",
+    "human_name": ""
+  },
+  {
+    "type_name": "FAMAS",
+    "human_name": ""
+  },
+  {
+    "type_name": "FNP45_MRDSOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "FNX45",
+    "human_name": ""
+  },
+  {
+    "type_name": "Fabric",
+    "human_name": ""
+  },
+  {
+    "type_name": "FaceCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "Fal_FoldingBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Fal_OeBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "FangeKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "FarmingHoe",
+    "human_name": ""
+  },
+  {
+    "type_name": "FeetCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "Fence",
+    "human_name": ""
+  },
+  {
+    "type_name": "FenceKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "FieldShovel",
+    "human_name": ""
+  },
+  {
+    "type_name": "FilteringBottle",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefighterAxe",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefighterAxe_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefighterAxe_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefighterJacket_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefighterJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefightersHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefightersHelmet_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefightersHelmet_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefightersPants_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirefightersPants_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Fireplace",
+    "human_name": ""
+  },
+  {
+    "type_name": "FireplaceIndoor",
+    "human_name": ""
+  },
+  {
+    "type_name": "Firewood",
+    "human_name": ""
+  },
+  {
+    "type_name": "FireworksLauncher",
+    "human_name": ""
+  },
+  {
+    "type_name": "FirstAidKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "FishNetTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "FishingRod",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_APA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Altis",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_BabyDeer",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Bear",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Bohemia",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_BrainZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_CDF",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_CHEL",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_CMC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Cannibals",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Chedaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Chernarus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Crook",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_DayZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_HunterZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Livonia",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_LivoniaArmy",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_LivoniaPolice",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_NAPA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_NSahrani",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Pirates",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_RSTA",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Refuge",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Rex",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Rooster",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_SSahrani",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Snake",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_TEC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_UEC",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Wolf",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Zagorky",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flag_Zenit",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flaregun",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlashGrenade",
+    "human_name": ""
+  },
+  {
+    "type_name": "Flashlight",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_BlackCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_BrownCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_GreyCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "FlatCap_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "FoxPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "FoxSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "FryingPan",
+    "human_name": ""
+  },
+  {
+    "type_name": "FurCourierBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "FurImprovisedBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "GP5GasMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "GPSReceiver",
+    "human_name": ""
+  },
+  {
+    "type_name": "GardenLime",
+    "human_name": ""
+  },
+  {
+    "type_name": "GardenPlot",
+    "human_name": ""
+  },
+  {
+    "type_name": "GardenPlotGreenhouse",
+    "human_name": ""
+  },
+  {
+    "type_name": "GardenPlotPolytunnel",
+    "human_name": ""
+  },
+  {
+    "type_name": "GasMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "GasMask_Filter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GasMask_Filter_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieAtt_Mossy",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieAtt_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieAtt_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieAtt_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieBushrag_Mossy",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieBushrag_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieBushrag_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieBushrag_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieHood_Mossy",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieHood_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieHood_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieHood_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieSuit_Mossy",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieSuit_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieSuit_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieSuit_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieTop_Mossy",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieTop_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieTop_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GhillieTop_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Large_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Large_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Large_3",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Large_4",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Medium_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Medium_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Medium_3",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Medium_4",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Small_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Small_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Small_3",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftBox_Small_4",
+    "human_name": ""
+  },
+  {
+    "type_name": "GiftWrapPaper",
+    "human_name": ""
+  },
+  {
+    "type_name": "GlassBottle",
+    "human_name": ""
+  },
+  {
+    "type_name": "Glock19",
+    "human_name": ""
+  },
+  {
+    "type_name": "GlowPlug",
+    "human_name": ""
+  },
+  {
+    "type_name": "GoatPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "GoatSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaEJacket_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaEJacket_Flat",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaEJacket_PautRev",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaEJacket_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaEJacket_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaHelmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaHelmetVisor",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaPants_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaPants_Flat",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaPants_PautRev",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaPants_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "GorkaPants_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "GreatHelm",
+    "human_name": ""
+  },
+  {
+    "type_name": "GreenBellPepper",
+    "human_name": ""
+  },
+  {
+    "type_name": "Grenade_ChemGas",
+    "human_name": ""
+  },
+  {
+    "type_name": "Guts",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hacksaw",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hammer",
+    "human_name": ""
+  },
+  {
+    "type_name": "HandDrillKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "HandSaw",
+    "human_name": ""
+  },
+  {
+    "type_name": "HandcuffKeys",
+    "human_name": ""
+  },
+  {
+    "type_name": "Handcuffs",
+    "human_name": ""
+  },
+  {
+    "type_name": "HandcuffsLocked",
+    "human_name": ""
+  },
+  {
+    "type_name": "HandsCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_CoDriver_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackDoors_Driver_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackHood_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackTrunk_WhiteRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackWheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "HatchbackWheel_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_1_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_1_2_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_1_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Door_2_2_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Hood_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk_BlackRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Trunk_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Wheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchback_02_Wheel_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hatchet",
+    "human_name": ""
+  },
+  {
+    "type_name": "HeadCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "Headdress_Wolf",
+    "human_name": ""
+  },
+  {
+    "type_name": "HeadlightH7",
+    "human_name": ""
+  },
+  {
+    "type_name": "HeadlightH7_Box",
+    "human_name": ""
+  },
+  {
+    "type_name": "Headtorch_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Headtorch_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Heatpack",
+    "human_name": ""
+  },
+  {
+    "type_name": "HighCapacityVest_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HighCapacityVest_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBootsLow_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBootsLow_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBootsLow_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBootsLow_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBoots_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingBoots_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "HikingJacket_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "HipPack_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HipPack_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "HipPack_Medical",
+    "human_name": ""
+  },
+  {
+    "type_name": "HipPack_Party",
+    "human_name": ""
+  },
+  {
+    "type_name": "HockeyHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "HockeyHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "HockeyHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "HockeyHelmet_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "HockeyMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "Honey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hoodie_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Hook",
+    "human_name": ""
+  },
+  {
+    "type_name": "HumanSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "HunterPants_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "HunterPants_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "HunterPants_Spring",
+    "human_name": ""
+  },
+  {
+    "type_name": "HunterPants_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "HunterPants_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingBag_Hannah",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingJacket_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingJacket_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingJacket_Spring",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingJacket_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingJacket_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingVest",
+    "human_name": ""
+  },
+  {
+    "type_name": "HuntingVest_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "Iceaxe",
+    "human_name": ""
+  },
+  {
+    "type_name": "ImprovisedBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "ImprovisedExplosive",
+    "human_name": ""
+  },
+  {
+    "type_name": "ImprovisedFishingRod",
+    "human_name": ""
+  },
+  {
+    "type_name": "ImprovisedSuppressor",
+    "human_name": ""
+  },
+  {
+    "type_name": "IodineTincture",
+    "human_name": ""
+  },
+  {
+    "type_name": "Izh18",
+    "human_name": ""
+  },
+  {
+    "type_name": "Izh18Shotgun",
+    "human_name": ""
+  },
+  {
+    "type_name": "Izh43Shotgun",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_BlueDark",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jeans_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Jig",
+    "human_name": ""
+  },
+  {
+    "type_name": "JoggingShoes_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "JoggingShoes_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "JoggingShoes_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "JoggingShoes_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "JoggingShoes_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitJacket_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitJacket_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitPants_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitPants_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "JumpsuitPants_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "JungleBoots_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "JungleBoots_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "JungleBoots_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "JungleBoots_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "JungleBoots_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "KashtanOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "KazuarOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "KitchenKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "KitchenTimer",
+    "human_name": ""
+  },
+  {
+    "type_name": "KobraOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "KukriKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "LabCoat",
+    "human_name": ""
+  },
+  {
+    "type_name": "LactariusMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "LandMineTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Container_1Aoh_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Container_1Bo_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Container_1Mo_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Container_1Moh_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Train_Wagon_Box_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Train_Wagon_Box_Mil_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_Ikarus_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_Tractor_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_Trailer_Closed_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_V3S_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_Volha_Police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban1_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban1_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban1_white_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban2_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban2_green_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban2_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban1_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban1_red_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban2_black_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban2_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban2_red_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_offroad02_aban1_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_offroad02_aban2_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban1_black_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban1_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban1_police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban1_white_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban1_wine_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban2_black_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban2_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban2_police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban1_grey_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban1_red_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban1_yellow_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban2_grey_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban2_red_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban2_yellow_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban1_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban1_firetruck_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban1_green_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban1_orange_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban2_blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban2_firetruck_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban2_green_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Lard",
+    "human_name": ""
+  },
+  {
+    "type_name": "LargeGasCanister",
+    "human_name": ""
+  },
+  {
+    "type_name": "LargeTent",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherBelt_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherBelt_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherBelt_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherBelt_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherGloves_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherGloves_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherGloves_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherGloves_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherHat_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherHat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherHat_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherHat_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherJacket_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherJacket_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherJacket_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherKnifeSheath",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherPants_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherPants_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherPants_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherPants_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherSack_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherSack_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherSack_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherSack_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherSewingKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherShirt_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherShoes_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherShoes_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherShoes_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherShoes_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherStorageVest_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherStorageVest_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherStorageVest_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "LeatherStorageVest_Natural",
+    "human_name": ""
+  },
+  {
+    "type_name": "LegsCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "Lockpick",
+    "human_name": ""
+  },
+  {
+    "type_name": "LongTorch",
+    "human_name": ""
+  },
+  {
+    "type_name": "LongWoodenStick",
+    "human_name": ""
+  },
+  {
+    "type_name": "Longhorn",
+    "human_name": ""
+  },
+  {
+    "type_name": "LugWrench",
+    "human_name": ""
+  },
+  {
+    "type_name": "Lunchmeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Lunchmeat_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "M14",
+    "human_name": ""
+  },
+  {
+    "type_name": "M16A2",
+    "human_name": ""
+  },
+  {
+    "type_name": "M18SmokeGrenade_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "M18SmokeGrenade_Purple",
+    "human_name": ""
+  },
+  {
+    "type_name": "M18SmokeGrenade_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "M18SmokeGrenade_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "M18SmokeGrenade_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4A1",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4A1_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4A1_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_CQBBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_CarryHandleOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_MPBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_MPHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_OEBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_PlasticHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_RISHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_RISHndgrd_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_RISHndgrd_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_Suppressor",
+    "human_name": ""
+  },
+  {
+    "type_name": "M4_T3NRDSOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "M65Jacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "M65Jacket_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "M65Jacket_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "M65Jacket_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "M67Grenade",
+    "human_name": ""
+  },
+  {
+    "type_name": "M68Optic",
+    "human_name": ""
+  },
+  {
+    "type_name": "M79",
+    "human_name": ""
+  },
+  {
+    "type_name": "M9A1_Bayonet",
+    "human_name": ""
+  },
+  {
+    "type_name": "MKII",
+    "human_name": ""
+  },
+  {
+    "type_name": "MP5K",
+    "human_name": ""
+  },
+  {
+    "type_name": "MP5_Compensator",
+    "human_name": ""
+  },
+  {
+    "type_name": "MP5_PlasticHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "MP5_RailHndgrd",
+    "human_name": ""
+  },
+  {
+    "type_name": "MP5k_StockBttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mace",
+    "human_name": ""
+  },
+  {
+    "type_name": "Machete",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mackerel",
+    "human_name": ""
+  },
+  {
+    "type_name": "MackerelFilletMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "MacrolepiotaMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_1911_7Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AK101_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AK74_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AK74_45Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AKM_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AKM_Drum75Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_AKM_Palm30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Aug_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CMAG_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CMAG_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CMAG_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CMAG_40Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CZ527_5rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CZ550_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CZ61_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_CZ75_15Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Deagle_9rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_FAL_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_FAMAS_25Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_FNX45_15Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Glock_15Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_IJ70_8Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_M14_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_M14_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_MKII_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_MP5_15Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_MP5_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_P1_8Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_PP19_64Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Ruger1022_15Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Ruger1022_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_SSG82_5rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_STANAG_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_STANAG_60Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_SV98_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_SVD_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Saiga_5Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Saiga_8Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Saiga_Drum20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Scout_5Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_UMP_25Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_VAL_20Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_VSS_10Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mag_Vikhr_30Rnd",
+    "human_name": ""
+  },
+  {
+    "type_name": "Magnum",
+    "human_name": ""
+  },
+  {
+    "type_name": "MakarovIJ70",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_DarkGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_LightGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ManSuit_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Marmalade",
+    "human_name": ""
+  },
+  {
+    "type_name": "Matchbox",
+    "human_name": ""
+  },
+  {
+    "type_name": "MeatTenderizer",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsHat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsHat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsHat_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsPants_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsPants_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsShirt_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsShirt_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedicalScrubsShirt_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "MedievalBoots",
+    "human_name": ""
+  },
+  {
+    "type_name": "MediumGasCanister",
+    "human_name": ""
+  },
+  {
+    "type_name": "MediumTent",
+    "human_name": ""
+  },
+  {
+    "type_name": "MediumTent_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MediumTent_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Megaphone",
+    "human_name": ""
+  },
+  {
+    "type_name": "MetalPlate",
+    "human_name": ""
+  },
+  {
+    "type_name": "MetalWire",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mich2001Helmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBeret_CDF",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBeret_ChDKZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBeret_NZ",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBeret_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBeret_UN",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBoots_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBoots_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBoots_Bluerock",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBoots_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "MilitaryBoots_Redpunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "MimeMask_Female",
+    "human_name": ""
+  },
+  {
+    "type_name": "MimeMask_Male",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_BlueChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_BlueWithDots",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_BrownChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_GreenChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_PinkChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_RedChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MiniDress_WhiteChecker",
+    "human_name": ""
+  },
+  {
+    "type_name": "MorozkoHat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Morphine",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin9130",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin9130_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin9130_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin9130_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin_Bayonet",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mosin_Compensator",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Lime",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "MotoHelmet_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "MountainBag_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "MountainBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "MountainBag_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "MountainBag_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "MouthRag",
+    "human_name": ""
+  },
+  {
+    "type_name": "Mp133Shotgun",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCBootsGray",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCBootsWhite",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCBootsYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCGlovesGray",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCGlovesYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCHoodGray",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCHoodWhite",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCHoodYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCJacketGray",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCJacketWhite",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCJacketYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCPantsGray",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCPantsWhite",
+    "human_name": ""
+  },
+  {
+    "type_name": "NBCPantsYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "NVGHeadstrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "NVGoggles",
+    "human_name": ""
+  },
+  {
+    "type_name": "Nail",
+    "human_name": ""
+  },
+  {
+    "type_name": "NailBox",
+    "human_name": ""
+  },
+  {
+    "type_name": "NailedBaseballBat",
+    "human_name": ""
+  },
+  {
+    "type_name": "NavyUniformJacket",
+    "human_name": ""
+  },
+  {
+    "type_name": "NavyUniformPants",
+    "human_name": ""
+  },
+  {
+    "type_name": "Netting",
+    "human_name": ""
+  },
+  {
+    "type_name": "NioshFaceMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "NorseHelm",
+    "human_name": ""
+  },
+  {
+    "type_name": "NurseDress_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "NurseDress_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "NylonKnifeSheath",
+    "human_name": ""
+  },
+  {
+    "type_name": "OKZKCap_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "OKZKCap_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "OMKJacket_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "OMKPants_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "OMNOGloves_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "OMNOGloves_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "OfficerHat",
+    "human_name": ""
+  },
+  {
+    "type_name": "OffroadHatchback",
+    "human_name": ""
+  },
+  {
+    "type_name": "OffroadHatchback_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "OffroadHatchback_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_1_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_1_1_Rust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_1_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_1_2_Rust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_2_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_2_1_Rust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_2_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Door_2_2_Rust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Hood",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Trunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Trunk_Rust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Offroad_02_Wheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "OrientalMachete",
+    "human_name": ""
+  },
+  {
+    "type_name": "OrienteeringCompass",
+    "human_name": ""
+  },
+  {
+    "type_name": "OvenIndoor",
+    "human_name": ""
+  },
+  {
+    "type_name": "P1",
+    "human_name": ""
+  },
+  {
+    "type_name": "PP19",
+    "human_name": ""
+  },
+  {
+    "type_name": "PP19_Bttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "PSO11Optic",
+    "human_name": ""
+  },
+  {
+    "type_name": "PSO1Optic",
+    "human_name": ""
+  },
+  {
+    "type_name": "PUScopeOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaddedGloves_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaddedGloves_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaddedGloves_Threat",
+    "human_name": ""
+  },
+  {
+    "type_name": "PainkillerTablets",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pajka",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pajka_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Paper",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicJacket_Crimson",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicPants_Crimson",
+    "human_name": ""
+  },
+  {
+    "type_name": "ParamedicPants_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "PartyTent",
+    "human_name": ""
+  },
+  {
+    "type_name": "PartyTent_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "PartyTent_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "PartyTent_Lunapark",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pate",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pate_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaydayMask_Chains",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaydayMask_Dallas",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaydayMask_Hoxton",
+    "human_name": ""
+  },
+  {
+    "type_name": "PaydayMask_Wolf",
+    "human_name": ""
+  },
+  {
+    "type_name": "PeachesCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "PeachesCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pear",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pen_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pen_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pen_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pen_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "PepperSeeds",
+    "human_name": ""
+  },
+  {
+    "type_name": "PepperSeedsPack",
+    "human_name": ""
+  },
+  {
+    "type_name": "PersonalRadio",
+    "human_name": ""
+  },
+  {
+    "type_name": "PetrolLighter",
+    "human_name": ""
+  },
+  {
+    "type_name": "PetushokHat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "PetushokHat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "PetushokHat_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pickaxe",
+    "human_name": ""
+  },
+  {
+    "type_name": "PigPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "PigSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "PileOfWoodenPlanks",
+    "human_name": ""
+  },
+  {
+    "type_name": "PilotkaCap",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pipe",
+    "human_name": ""
+  },
+  {
+    "type_name": "PipeWrench",
+    "human_name": ""
+  },
+  {
+    "type_name": "PistolOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "PistolSuppressor",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pitchfork",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlantMaterial",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plant_Pepper",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plant_Potato",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plant_Pumpkin",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plant_Tomato",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plant_Zucchini",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plastic_Explosive",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierHolster",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierHolster_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierHolster_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierHolster_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierHolster_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierPouches",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierPouches_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierPouches_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierPouches_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierPouches_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierVest",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierVest_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierVest_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierVest_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "PlateCarrierVest_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "PleurotusMushroom",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pliers",
+    "human_name": ""
+  },
+  {
+    "type_name": "Plum",
+    "human_name": ""
+  },
+  {
+    "type_name": "PoliceCap",
+    "human_name": ""
+  },
+  {
+    "type_name": "PoliceJacket",
+    "human_name": ""
+  },
+  {
+    "type_name": "PoliceJacketOrel",
+    "human_name": ""
+  },
+  {
+    "type_name": "PolicePants",
+    "human_name": ""
+  },
+  {
+    "type_name": "PolicePantsOrel",
+    "human_name": ""
+  },
+  {
+    "type_name": "PoliceVest",
+    "human_name": ""
+  },
+  {
+    "type_name": "PorkCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "PorkCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "PortableGasLamp",
+    "human_name": ""
+  },
+  {
+    "type_name": "PortableGasStove",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pot",
+    "human_name": ""
+  },
+  {
+    "type_name": "Potato",
+    "human_name": ""
+  },
+  {
+    "type_name": "PotatoSeed",
+    "human_name": ""
+  },
+  {
+    "type_name": "PowderedMilk",
+    "human_name": ""
+  },
+  {
+    "type_name": "PowerGenerator",
+    "human_name": ""
+  },
+  {
+    "type_name": "PressVest_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "PressVest_LightBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "PrisonUniformJacket",
+    "human_name": ""
+  },
+  {
+    "type_name": "PrisonUniformPants",
+    "human_name": ""
+  },
+  {
+    "type_name": "PrisonerCap",
+    "human_name": ""
+  },
+  {
+    "type_name": "Pumpkin",
+    "human_name": ""
+  },
+  {
+    "type_name": "PumpkinHelmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "PumpkinSeeds",
+    "human_name": ""
+  },
+  {
+    "type_name": "PumpkinSeedsPack",
+    "human_name": ""
+  },
+  {
+    "type_name": "PurificationTablets",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "QuiltedJacket_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "RDG2SmokeGrenade_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "RDG2SmokeGrenade_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "RGD5Grenade",
+    "human_name": ""
+  },
+  {
+    "type_name": "RabbitLegMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "RabbitPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "RabbitSnareTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "RadarCap_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "RadarCap_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "RadarCap_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "RadarCap_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "RadarCap_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Rag",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Pink",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Raincoat_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "Rangefinder",
+    "human_name": ""
+  },
+  {
+    "type_name": "RedCaviar",
+    "human_name": ""
+  },
+  {
+    "type_name": "ReflexOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "ReflexVest",
+    "human_name": ""
+  },
+  {
+    "type_name": "ReindeerPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "ReindeerSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "RemoteDetonator",
+    "human_name": ""
+  },
+  {
+    "type_name": "RemoteDetonatorReceiver",
+    "human_name": ""
+  },
+  {
+    "type_name": "RemoteDetonatorTrigger",
+    "human_name": ""
+  },
+  {
+    "type_name": "Repeater",
+    "human_name": ""
+  },
+  {
+    "type_name": "Rice",
+    "human_name": ""
+  },
+  {
+    "type_name": "RidersJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Roadflare",
+    "human_name": ""
+  },
+  {
+    "type_name": "Rope",
+    "human_name": ""
+  },
+  {
+    "type_name": "RopeBelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ruger1022",
+    "human_name": ""
+  },
+  {
+    "type_name": "SKS",
+    "human_name": ""
+  },
+  {
+    "type_name": "SKS_Bayonet",
+    "human_name": ""
+  },
+  {
+    "type_name": "SSG82",
+    "human_name": ""
+  },
+  {
+    "type_name": "SV98",
+    "human_name": ""
+  },
+  {
+    "type_name": "SVD",
+    "human_name": ""
+  },
+  {
+    "type_name": "Saiga",
+    "human_name": ""
+  },
+  {
+    "type_name": "Saiga_Bttstck",
+    "human_name": ""
+  },
+  {
+    "type_name": "SalineBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "SalineBagIV",
+    "human_name": ""
+  },
+  {
+    "type_name": "SaltySticks",
+    "human_name": ""
+  },
+  {
+    "type_name": "SambucusBerry",
+    "human_name": ""
+  },
+  {
+    "type_name": "SantasBeard",
+    "human_name": ""
+  },
+  {
+    "type_name": "SantasHat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sardines",
+    "human_name": ""
+  },
+  {
+    "type_name": "SardinesCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "SardinesCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffB95",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffFAMAS",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffIzh18",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffIzh18Shotgun",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffIzh43Shotgun",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffMagnum",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffMosin9130",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffMosin9130_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffMosin9130_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "SawedoffMosin9130_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ScientificBriefcase",
+    "human_name": ""
+  },
+  {
+    "type_name": "ScientificBriefcaseKeys",
+    "human_name": ""
+  },
+  {
+    "type_name": "Scout",
+    "human_name": ""
+  },
+  {
+    "type_name": "Scout_Chernarus",
+    "human_name": ""
+  },
+  {
+    "type_name": "Scout_Livonia",
+    "human_name": ""
+  },
+  {
+    "type_name": "Screwdriver",
+    "human_name": ""
+  },
+  {
+    "type_name": "SeaChest",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_1_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_1_2_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_1_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Door_2_2_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Hood_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk_GreyRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk_RedRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Trunk_YellowRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Wheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sedan_02_Wheel_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "SewingKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "SharpWoodenStick",
+    "human_name": ""
+  },
+  {
+    "type_name": "SheepPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "SheepSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShelterFabric",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShelterKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShelterLeather",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShelterSite",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShelterStick",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shemag_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shemag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shemag_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shemag_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "SherpaHat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "SherpaHat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SherpaHat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_BlueCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_BlueCheckBright",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_GreenCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_PlaneBlack",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_RedCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shirt_WhiteCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Darkblue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ShortJeans_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shovel",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sickle",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkateHelmet_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkateHelmet_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkateHelmet_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkateHelmet_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkateHelmet_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGloves_90s",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGloves_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGloves_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGoggles_BlackYellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGoggles_WhiteClear",
+    "human_name": ""
+  },
+  {
+    "type_name": "SkiGoggles_WhiteDark",
+    "human_name": ""
+  },
+  {
+    "type_name": "Skirt_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Skirt_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Skirt_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "Skirt_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_DarkGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_LightGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlacksPants_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "SledgeHammer",
+    "human_name": ""
+  },
+  {
+    "type_name": "SlicedPumpkin",
+    "human_name": ""
+  },
+  {
+    "type_name": "Slingbag_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Slingbag_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Slingbag_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmallFishTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmallGasCanister",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmallGuts",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmallProtectorCase",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmallStone",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmershBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "SmershVest",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sneakers_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sneakers_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sneakers_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sneakers_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sneakers_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "SnowstormUshanka_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "SnowstormUshanka_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "SnowstormUshanka_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "SnowstormUshanka_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "SodaCan_Cola",
+    "human_name": ""
+  },
+  {
+    "type_name": "SodaCan_Fronta",
+    "human_name": ""
+  },
+  {
+    "type_name": "SodaCan_Kvass",
+    "human_name": ""
+  },
+  {
+    "type_name": "SodaCan_Pipsi",
+    "human_name": ""
+  },
+  {
+    "type_name": "SodaCan_Spite",
+    "human_name": ""
+  },
+  {
+    "type_name": "SpaghettiCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "SpaghettiCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "SparkPlug",
+    "human_name": ""
+  },
+  {
+    "type_name": "SpearBone",
+    "human_name": ""
+  },
+  {
+    "type_name": "SpearStone",
+    "human_name": ""
+  },
+  {
+    "type_name": "Splint",
+    "human_name": ""
+  },
+  {
+    "type_name": "Splint_Applied",
+    "human_name": ""
+  },
+  {
+    "type_name": "SportGlasses_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "SportGlasses_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SportGlasses_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "SportGlasses_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Spotlight",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ssh68Helmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "StarlightOptic",
+    "human_name": ""
+  },
+  {
+    "type_name": "StartKitIV",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Decal_damage_long2_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Decal_damage_long3_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Misc_SupplyBox1_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Misc_SupplyBox2_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Misc_SupplyBox3_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Roadblock_Wood_Long_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Roadblock_Wood_Small_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Train_Wagon_Flat_Industrial_Planks_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_BMP1_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_BMP1_NoPlacement_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_BMP2_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_BRDM_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Decal_Big_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Decal_Small1_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Decal_Small2_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_T72_Chassis_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_T72_Turret_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_742_Blue_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_742_Blue_Mil_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_742_Red_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_742_Red_Mil_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_Wagon_Flat_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_Wagon_Flat_Mil_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_Wagon_Tanker_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Uaz_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Ural_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Static_FrozenScientist_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "SteakKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "SteelheadTrout",
+    "human_name": ""
+  },
+  {
+    "type_name": "SteelheadTroutFilletMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Stone",
+    "human_name": ""
+  },
+  {
+    "type_name": "StoneKnife",
+    "human_name": ""
+  },
+  {
+    "type_name": "SurgicalGloves_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SurgicalGloves_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "SurgicalGloves_LightBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "SurgicalGloves_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "SurgicalMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_ChristmasBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_ChristmasGreen",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_ChristmasRed",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sweater_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Sword",
+    "human_name": ""
+  },
+  {
+    "type_name": "TLRLight",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_OrangeWhiteStripes",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_RedBlackStripes",
+    "human_name": ""
+  },
+  {
+    "type_name": "TShirt_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "TTSKOBoots",
+    "human_name": ""
+  },
+  {
+    "type_name": "TTSKOPants",
+    "human_name": ""
+  },
+  {
+    "type_name": "TTsKOJacket_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalBaconCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalBaconCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalGloves_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalGloves_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalGloves_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalGoggles",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalShirt_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalShirt_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalShirt_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "TacticalShirt_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "TaloonBag_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TaloonBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "TaloonBag_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "TaloonBag_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "TankerHelmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "TannedLeather",
+    "human_name": ""
+  },
+  {
+    "type_name": "TelnyashkaShirt",
+    "human_name": ""
+  },
+  {
+    "type_name": "TerritoryFlag",
+    "human_name": ""
+  },
+  {
+    "type_name": "TerritoryFlagKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "TetracyclineAntibiotics",
+    "human_name": ""
+  },
+  {
+    "type_name": "Thermometer",
+    "human_name": ""
+  },
+  {
+    "type_name": "ThickFramesGlasses",
+    "human_name": ""
+  },
+  {
+    "type_name": "ThinFramesGlasses",
+    "human_name": ""
+  },
+  {
+    "type_name": "TireRepairKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "Tomato",
+    "human_name": ""
+  },
+  {
+    "type_name": "TomatoSeeds",
+    "human_name": ""
+  },
+  {
+    "type_name": "TomatoSeedsPack",
+    "human_name": ""
+  },
+  {
+    "type_name": "Torch",
+    "human_name": ""
+  },
+  {
+    "type_name": "TorsoCover_Improvised",
+    "human_name": ""
+  },
+  {
+    "type_name": "TortillaBag",
+    "human_name": ""
+  },
+  {
+    "type_name": "TortillaBag_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitJacket_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitJacket_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitJacket_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitJacket_LightBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitJacket_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitPants_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitPants_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitPants_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitPants_LightBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "TrackSuitPants_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Tripod",
+    "human_name": ""
+  },
+  {
+    "type_name": "TripwireTrap",
+    "human_name": ""
+  },
+  {
+    "type_name": "TruckBattery",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Covered",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Covered_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Covered_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_1_1_OrangeRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Door_2_1_OrangeRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood_BlueRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood_GreenRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Hood_OrangeRust",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Wheel",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_WheelDouble",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_WheelDouble_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "Truck_01_Wheel_Ruined",
+    "human_name": ""
+  },
+  {
+    "type_name": "Tshirt_10thAnniversary",
+    "human_name": ""
+  },
+  {
+    "type_name": "TunaCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "TunaCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "UKAssVest_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "UKAssVest_Camo",
+    "human_name": ""
+  },
+  {
+    "type_name": "UKAssVest_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "UKAssVest_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "UKAssVest_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "UMP45",
+    "human_name": ""
+  },
+  {
+    "type_name": "USMCJacket_Desert",
+    "human_name": ""
+  },
+  {
+    "type_name": "USMCJacket_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "USMCPants_Desert",
+    "human_name": ""
+  },
+  {
+    "type_name": "USMCPants_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "UndergroundStash",
+    "human_name": ""
+  },
+  {
+    "type_name": "UniversalLight",
+    "human_name": ""
+  },
+  {
+    "type_name": "UnknownFoodCan",
+    "human_name": ""
+  },
+  {
+    "type_name": "UnknownFoodCan_Opened",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ushanka_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ushanka_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ushanka_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "VSS",
+    "human_name": ""
+  },
+  {
+    "type_name": "Vikhr",
+    "human_name": ""
+  },
+  {
+    "type_name": "VitaminBottle",
+    "human_name": ""
+  },
+  {
+    "type_name": "WalleyePollock",
+    "human_name": ""
+  },
+  {
+    "type_name": "WalleyePollockFilletMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "Watchtower",
+    "human_name": ""
+  },
+  {
+    "type_name": "WatchtowerKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "WaterBottle",
+    "human_name": ""
+  },
+  {
+    "type_name": "WaterproofBag_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WaterproofBag_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "WaterproofBag_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "WeaponCleaningKit",
+    "human_name": ""
+  },
+  {
+    "type_name": "WeldingMask",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wellies_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wellies_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wellies_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wellies_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "Whetstone",
+    "human_name": ""
+  },
+  {
+    "type_name": "WildboarPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "Winchester70",
+    "human_name": ""
+  },
+  {
+    "type_name": "WinterCoif_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WinterCoif_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "WinterCoif_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WinterCoif_Skull",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHat",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHoodCoif_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHoodCoif_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHoodCoif_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "WolfPelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "WolfSteakMeat",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_DarkGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_LightGrey",
+    "human_name": ""
+  },
+  {
+    "type_name": "WomanSuit_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodAxe",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodenCrate",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodenHook",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodenLog",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodenPlank",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoodenStick",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_BlackCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_BlueCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_BrownCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_GreyCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolCoat_RedCheck",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_ChristmasBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_ChristmasRed",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGlovesFingerless_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_ChristmasBlue",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_ChristmasRed",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_Tan",
+    "human_name": ""
+  },
+  {
+    "type_name": "WoolGloves_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingBoots_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingBoots_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingBoots_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingBoots_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingBoots_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingGloves_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingGloves_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingGloves_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WorkingGloves_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wreck_Mi8_Crashed",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wreck_SantasSleigh",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wreck_UH1Y",
+    "human_name": ""
+  },
+  {
+    "type_name": "Wrench",
+    "human_name": ""
+  },
+  {
+    "type_name": "XmasLights",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZSh3PilotHelmet",
+    "human_name": ""
+  },
+  {
+    "type_name": "Zagorky",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZagorkyChocolate",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZagorkyPeanuts",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_BlueCollarFat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_BlueCollarFat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_BlueCollarFat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_BlueCollarFat_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_CitizenANormal_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_CitizenANormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_CitizenANormal_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_CitizenBSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_Clerk_Normal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_Clerk_Normal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_Clerk_Normal_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_Clerk_Normal_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_DoctorSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_HikerSkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_HikerSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_HikerSkinny_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_HikerSkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JoggerSkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JoggerSkinny_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JoggerSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JoggerSkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JournalistNormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JournalistNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JournalistNormal_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_JournalistNormal_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MechanicNormal_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MechanicNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MechanicNormal_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MechanicNormal_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MilkMaidOld_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MilkMaidOld_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MilkMaidOld_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_MilkMaidOld_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_NurseFat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_NurseFat_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ParamedicNormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ParamedicNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ParamedicNormal_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_PatientOld",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_PatientOld_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_PoliceWomanNormal",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_checks",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_stripes",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_white",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_ShortSkirt_yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SkaterYoung_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SkaterYoung_Striped",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SkaterYoung_Violet",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SurvivorNormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SurvivorNormal_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SurvivorNormal_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_SurvivorNormal_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_VillagerOld_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_VillagerOld_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_VillagerOld_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbF_VillagerOld_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenASkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenASkinny_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenASkinny_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenASkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenBFat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenBFat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CitizenBFat_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ClerkFat_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ClerkFat_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ClerkFat_Khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ClerkFat_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CommercialPilotOld_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CommercialPilotOld_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CommercialPilotOld_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_CommercialPilotOld_Olive",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ConstrWorkerNormal_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ConstrWorkerNormal_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ConstrWorkerNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ConstrWorkerNormal_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_DoctorFat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_DoctorFat_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FarmerFat_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FarmerFat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FarmerFat_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FarmerFat_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FirefighterNormal",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FishermanOld_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FishermanOld_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FishermanOld_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_FishermanOld_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Gamedev_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Gamedev_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Gamedev_Gray",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HandymanNormal_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HandymanNormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HandymanNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HandymanNormal_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HandymanNormal_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HeavyIndustryWorker",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HermitSkinny_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HermitSkinny_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HermitSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HermitSkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HikerSkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HikerSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HikerSkinny_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HunterOld_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HunterOld_Spring",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HunterOld_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_HunterOld_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_bluechecks",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_greenchecks",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_khaki",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_magenta",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Jacket_stripes",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_JoggerSkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_JoggerSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_JoggerSkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_JournalistSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MechanicSkinny_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MechanicSkinny_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MechanicSkinny_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MechanicSkinny_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MotobikerFat_Beige",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MotobikerFat_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_MotobikerFat_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_NBC_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_NBC_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_NBC_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_OffshoreWorker_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_OffshoreWorker_Orange",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_OffshoreWorker_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_OffshoreWorker_Yellow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ParamedicNormal_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ParamedicNormal_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ParamedicNormal_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_ParamedicNormal_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatientSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatientSkinny_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatrolNormal_Autumn",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatrolNormal_Flat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatrolNormal_PautRev",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatrolNormal_Summer",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PatrolNormal_Winter",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PolicemanFat",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PolicemanSpecForce",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PolicemanSpecForce_Heavy",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_PrisonerSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Santa",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_SkaterYoung_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_SkaterYoung_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_SkaterYoung_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_SkaterYoung_Grey",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_SoldierNormal",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_VillagerOld_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_VillagerOld_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_VillagerOld_White",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_eastSoldier_Heavy_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_eastSoldier_normal_Navy",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_priestPopSkinny",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_usSoldier_Heavy_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_usSoldier_Officer_Desert",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_usSoldier_normal_Desert",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_usSoldier_normal_Woodland",
+    "human_name": ""
+  },
+  {
+    "type_name": "Zmbm_Mummy",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmijovkaCap_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmijovkaCap_Blue",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmijovkaCap_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmijovkaCap_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmijovkaCap_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "Zucchini",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZucchiniSeeds",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZucchiniSeedsPack",
+    "human_name": ""
+  },
+  {
+    "type_name": "Ammo_40mm_ChemGas",
+    "human_name": ""
+  },
+  {
+    "type_name": "Animal_CapraHircus_Spooky",
+    "human_name": ""
+  },
+  {
+    "type_name": "ChristmasTree_Green",
+    "human_name": ""
+  },
+  {
+    "type_name": "Foxpelt",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban1_green_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban1_police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb01_aban2_police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_hb02_aban1_black_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban2_white_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed01_aban2_wine_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_truck01_aban2_orange_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "PunchedCard",
+    "human_name": ""
+  },
+  {
+    "type_name": "Shrimp",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_Wreck_Trailer_Flat_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "UndergroundStashSnow",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_usSoldier_Officer_Convoy",
+    "human_name": ""
+  },
+  {
+    "type_name": "m14",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_WarheadStorage_Room1",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_WarheadStorage_Room2",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_WarheadStorage_Room3",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_WarheadStorage_Room4",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban1_Police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_Wreck_sed02_aban2_Police_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_sed02_aban1_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "Land_wreck_sed02_aban2_police",
+    "human_name": ""
+  },
+  {
+    "type_name": "StaticObj_FrozenScientist_DE",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Chainmail_Black",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Chainmail_Brown",
+    "human_name": ""
+  },
+  {
+    "type_name": "WitchHood_Chainmail_Red",
+    "human_name": ""
+  },
+  {
+    "type_name": "ZmbM_Mummy",
+    "human_name": ""
+  }
+]
